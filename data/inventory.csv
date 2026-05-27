@@ -1,0 +1,1001 @@
+hostname,ip,os,ram_gb,department,last_update
+desktop-24.owens.com,10.77.182.155,Debian 11,64,IT,2023-08-08
+web-05.johnson.com,172.24.183.85,Windows Server 2019,8,Finanzas,2024-01-20
+email-19.hamilton.biz,10.80.135.137,Windows Server 2022,8,Marketing,2026-04-06
+laptop-33.cruz-mcintyre.net,172.20.136.88,Windows Server 2019,16,Seguridad,2023-10-10
+web-23.wilson.com,10.175.163.157,Debian 11,8,Marketing,2024-06-25
+desktop-20.cline.com,10.14.179.6,Windows Server 2019,32,Operaciones,2024-08-16
+email-45.rivers.com,172.25.18.171,Windows Server 2022,64,Finanzas,2025-07-28
+desktop-43.key.com,192.168.73.80,Debian 11,32,Marketing,2025-04-25
+laptop-33.bird.com,10.1.189.63,CentOS 7,4,IT,2025-08-09
+lt-88.gomez.info,10.145.101.52,Debian 11,4,IT,2025-05-13
+web-37.gonzalez-wallace.info,172.18.119.134,Windows Server 2022,32,Operaciones,2023-07-10
+lt-18.washington.net,10.80.33.103,Debian 11,8,Finanzas,2026-02-24
+srv-45.moreno.org,10.61.209.139,Windows Server 2019,64,Seguridad,2024-04-02
+email-23.weaver-graham.com,172.21.135.107,Windows Server 2019,8,Finanzas,2025-07-23
+lt-79.coffey.net,192.168.101.198,Ubuntu 22.04,2,RRHH,2024-01-20
+srv-46.carey-howard.net,10.241.155.82,Debian 11,32,RRHH,2024-04-22
+srv-65.webb-haynes.org,10.179.2.103,Windows Server 2022,2,Marketing,2026-04-07
+email-41.thompson-freeman.com,10.100.150.165,Debian 11,8,RRHH,2026-05-22
+db-20.kemp.com,192.168.17.225,Ubuntu 22.04,4,Operaciones,2024-06-04
+db-82.lopez.com,172.19.102.139,Windows Server 2019,32,Finanzas,2024-10-09
+lt-20.jackson-oliver.com,172.29.195.238,Debian 11,32,RRHH,2025-06-21
+db-50.shannon.com,172.23.116.83,Ubuntu 22.04,16,IT,2023-06-01
+web-32.valenzuela.com,172.29.104.202,Windows Server 2019,2,Finanzas,2026-04-14
+web-69.smith-dunlap.info,192.168.98.5,Windows Server 2019,8,IT,2023-12-20
+db-71.bender-weaver.com,10.86.64.154,Windows Server 2019,4,RRHH,2025-01-04
+email-85.evans.com,172.30.250.124,Debian 11,2,Operaciones,2025-05-19
+web-42.ellis.info,192.168.50.138,Windows Server 2019,32,Finanzas,2023-09-20
+db-94.hill-hunt.org,172.28.247.236,Windows Server 2022,4,Finanzas,2025-02-06
+web-13.jones.info,10.144.42.145,Windows Server 2022,16,Seguridad,2025-11-06
+laptop-49.brown.org,192.168.27.167,Windows Server 2022,64,Finanzas,2024-01-24
+email-03.rowe-mccarthy.biz,192.168.119.38,CentOS 7,32,Seguridad,2024-12-04
+email-48.velasquez.com,172.30.234.19,Ubuntu 22.04,8,Marketing,2026-04-08
+desktop-81.cross.biz,172.18.156.76,Debian 11,16,Seguridad,2024-01-18
+email-17.allen-espinoza.com,10.150.244.227,Ubuntu 22.04,16,Marketing,2024-06-18
+laptop-61.carr.net,10.105.187.255,Ubuntu 22.04,4,Marketing,2024-07-24
+lt-48.howard-taylor.net,192.168.99.173,Ubuntu 22.04,32,RRHH,2024-09-16
+db-82.liu.com,192.168.35.80,Debian 11,16,RRHH,2023-07-26
+db-95.gomez.info,192.168.126.95,Ubuntu 22.04,64,Operaciones,2024-04-29
+lt-61.bates-wood.org,192.168.51.25,Windows Server 2022,32,Seguridad,2023-12-10
+db-12.galvan-krueger.info,192.168.241.19,CentOS 7,32,Finanzas,2025-04-19
+email-12.thomas.com,10.103.121.32,Debian 11,64,Finanzas,2023-08-14
+email-23.sanchez.com,192.168.120.110,Ubuntu 22.04,2,Marketing,2026-05-02
+db-19.mcknight-woods.com,172.31.200.198,Windows Server 2019,16,IT,2025-01-28
+lt-88.zimmerman.com,192.168.239.75,CentOS 7,16,IT,2023-08-12
+web-45.johnson.biz,10.23.101.59,Windows Server 2019,64,Marketing,2026-02-20
+srv-64.ingram-juarez.com,10.67.90.186,Windows Server 2019,2,Marketing,2024-06-16
+email-70.smith.com,10.28.198.120,Windows Server 2022,2,Seguridad,2026-03-18
+web-92.smith-decker.com,172.16.113.97,Ubuntu 22.04,64,IT,2025-04-23
+web-06.thompson.info,172.16.204.208,Windows Server 2019,32,Seguridad,2025-01-08
+db-73.valentine-white.com,172.19.86.196,Windows Server 2022,32,RRHH,2025-03-09
+desktop-16.bass.com,172.26.208.199,Ubuntu 22.04,32,Finanzas,2024-01-26
+desktop-97.whitaker.info,172.22.214.222,Windows Server 2022,16,Finanzas,2024-03-20
+web-14.frank.com,10.52.191.136,CentOS 7,8,Marketing,2025-04-27
+web-13.white.com,10.68.78.165,Windows Server 2019,32,Operaciones,2025-02-10
+srv-73.jones.com,192.168.243.158,Ubuntu 22.04,32,Seguridad,2024-03-27
+laptop-11.campbell-white.com,192.168.196.28,Debian 11,2,Finanzas,2024-02-10
+web-54.brooks-smith.com,10.52.124.42,Windows Server 2022,8,Operaciones,2023-06-25
+desktop-04.brown.biz,10.116.183.198,Windows Server 2019,64,Operaciones,2023-07-04
+db-46.green.org,10.32.38.90,CentOS 7,64,IT,2025-09-10
+db-39.keller.com,172.16.136.187,Windows Server 2022,32,IT,2024-11-09
+desktop-89.hodge.com,192.168.166.155,Windows Server 2022,8,Marketing,2024-03-24
+web-46.davidson.com,172.20.145.242,Debian 11,64,Marketing,2025-03-09
+desktop-04.rodriguez.com,192.168.193.72,Windows Server 2022,16,RRHH,2024-05-23
+desktop-05.underwood.info,192.168.245.107,Ubuntu 22.04,64,Marketing,2023-12-02
+laptop-96.clark.com,172.25.151.204,Ubuntu 22.04,32,Marketing,2025-07-13
+srv-04.williams.net,192.168.91.207,Windows Server 2019,32,IT,2025-03-18
+desktop-66.richard.com,10.186.5.135,Windows Server 2022,16,Marketing,2025-12-11
+db-43.evans-williams.com,192.168.159.50,Ubuntu 22.04,64,Seguridad,2025-03-17
+laptop-41.ballard-watson.com,192.168.136.187,Windows Server 2019,32,Seguridad,2023-09-27
+lt-65.bond.com,192.168.95.55,CentOS 7,8,RRHH,2025-11-03
+web-36.johnson.com,172.26.220.94,CentOS 7,32,IT,2023-09-05
+laptop-26.morse.org,10.68.0.107,Windows Server 2019,2,Seguridad,2024-08-05
+desktop-02.frye.info,172.28.42.182,Ubuntu 22.04,32,Seguridad,2025-08-27
+srv-85.morgan.com,192.168.54.21,Ubuntu 22.04,8,Seguridad,2024-10-29
+email-58.mason.com,172.19.188.74,Debian 11,8,Operaciones,2024-02-02
+web-19.meza.com,192.168.210.21,Windows Server 2022,2,Operaciones,2023-08-21
+laptop-23.ritter-mosley.com,192.168.7.88,Debian 11,32,Finanzas,2023-09-27
+web-98.ingram.com,192.168.28.85,CentOS 7,4,Finanzas,2025-01-12
+desktop-29.neal.info,192.168.64.110,Ubuntu 22.04,64,Marketing,2024-09-01
+desktop-04.bowman.com,192.168.144.90,Windows Server 2022,32,Seguridad,2025-12-21
+web-10.marshall-bridges.info,192.168.97.148,Windows Server 2022,32,Finanzas,2026-02-03
+laptop-83.rogers-shah.biz,10.66.139.205,Windows Server 2019,64,Finanzas,2024-02-15
+email-51.gonzalez-george.biz,192.168.55.175,Windows Server 2019,8,Finanzas,2025-04-10
+email-09.torres.com,10.86.170.98,CentOS 7,16,RRHH,2024-09-23
+lt-34.ferguson-cohen.com,10.103.162.152,Ubuntu 22.04,2,Marketing,2026-03-09
+srv-30.allen.com,192.168.184.89,Debian 11,2,IT,2024-10-10
+db-08.wagner-bennett.net,192.168.59.198,Debian 11,32,Operaciones,2024-11-23
+srv-30.morris.com,172.29.250.135,Ubuntu 22.04,64,Finanzas,2023-11-05
+web-00.barnett.com,192.168.89.131,Debian 11,32,Marketing,2024-02-13
+desktop-37.zhang.com,10.114.77.212,CentOS 7,64,Operaciones,2024-08-04
+srv-37.evans-spears.com,192.168.139.62,CentOS 7,16,RRHH,2024-09-20
+desktop-65.perez-brooks.com,172.26.0.62,Windows Server 2022,32,Seguridad,2024-10-18
+laptop-09.cruz-ramirez.com,10.46.244.212,Ubuntu 22.04,32,Seguridad,2026-02-14
+desktop-82.mclaughlin.com,10.249.161.156,Windows Server 2022,64,IT,2024-12-30
+lt-61.burke-phelps.com,172.28.185.73,Debian 11,4,Seguridad,2023-11-24
+email-91.hernandez.net,192.168.66.59,Ubuntu 22.04,64,RRHH,2024-07-31
+desktop-64.rowe-hayes.com,172.24.185.230,Windows Server 2019,64,Seguridad,2023-06-20
+db-37.crane.net,10.171.225.111,Debian 11,4,IT,2025-09-12
+lt-28.cunningham-marshall.info,172.17.124.254,CentOS 7,16,Marketing,2025-08-09
+desktop-95.villa.biz,192.168.170.203,Windows Server 2019,8,RRHH,2024-12-11
+srv-36.tanner.com,172.31.207.130,Windows Server 2022,2,RRHH,2025-02-20
+srv-29.kennedy.com,192.168.33.216,Debian 11,32,IT,2025-02-11
+db-96.ballard.info,10.143.93.159,Debian 11,16,Marketing,2025-10-20
+lt-07.watson.com,192.168.159.253,Windows Server 2022,8,Finanzas,2024-09-23
+desktop-03.santana-burns.org,10.67.84.86,Ubuntu 22.04,2,Finanzas,2024-03-05
+srv-85.thomas-martin.com,10.186.242.213,Debian 11,32,Seguridad,2024-10-22
+desktop-80.brown.com,192.168.67.172,CentOS 7,8,Marketing,2023-05-31
+db-46.webb-gilbert.net,192.168.89.60,Debian 11,8,Operaciones,2025-02-22
+laptop-74.carter-hogan.com,192.168.172.108,CentOS 7,2,Marketing,2026-01-11
+db-07.maxwell.info,10.31.139.118,Ubuntu 22.04,16,Operaciones,2024-02-02
+desktop-94.boyd-andrews.com,10.243.59.186,Windows Server 2022,32,IT,2024-10-30
+email-93.harvey.com,192.168.37.77,Windows Server 2022,32,Seguridad,2024-11-25
+desktop-27.davis.info,172.29.86.38,CentOS 7,64,RRHH,2026-04-05
+db-44.johnson.com,172.23.249.146,Windows Server 2019,4,RRHH,2024-10-04
+desktop-29.thompson.com,192.168.55.50,CentOS 7,32,Seguridad,2023-12-08
+email-83.washington.biz,10.45.57.186,Ubuntu 22.04,4,Finanzas,2025-10-15
+email-22.schmidt.com,10.2.103.38,Windows Server 2022,32,Finanzas,2024-06-16
+web-68.thomas.com,192.168.133.171,Debian 11,16,Marketing,2024-12-25
+lt-58.chapman.com,172.17.71.185,Debian 11,2,Finanzas,2024-05-04
+lt-54.jones-ortiz.org,172.30.162.134,Windows Server 2019,4,RRHH,2025-12-05
+lt-75.gray.net,10.243.9.36,Debian 11,4,Marketing,2024-11-05
+srv-77.davis.info,192.168.200.88,Windows Server 2019,64,Operaciones,2023-12-05
+email-13.cook.info,10.104.191.82,Windows Server 2019,4,Marketing,2024-06-17
+email-03.brewer.info,172.22.96.84,Ubuntu 22.04,8,IT,2024-10-31
+lt-68.mason.com,192.168.66.171,Ubuntu 22.04,16,RRHH,2024-04-01
+srv-24.jensen.info,172.17.232.133,Ubuntu 22.04,16,RRHH,2025-07-20
+srv-70.cross.com,192.168.170.231,Windows Server 2019,16,Seguridad,2024-06-05
+laptop-34.gonzalez-ross.com,172.21.73.218,Ubuntu 22.04,32,Finanzas,2025-01-31
+desktop-25.hill-mcguire.com,172.30.219.140,Windows Server 2022,32,RRHH,2024-08-16
+db-62.williams-clark.com,10.55.99.120,Ubuntu 22.04,4,Marketing,2025-09-25
+email-08.butler-long.com,192.168.171.181,CentOS 7,32,Seguridad,2023-10-02
+web-63.thomas-foster.com,10.162.3.134,Windows Server 2019,2,Finanzas,2024-12-14
+email-82.mitchell-trevino.org,10.192.202.88,Debian 11,32,Seguridad,2026-03-07
+srv-47.parker.com,10.157.211.230,Windows Server 2019,8,Operaciones,2023-05-27
+db-99.jackson.com,192.168.17.37,Debian 11,64,IT,2024-11-02
+srv-73.mcdaniel.org,10.11.96.42,Windows Server 2022,4,Seguridad,2024-03-10
+lt-12.morales.com,10.82.208.20,CentOS 7,64,IT,2025-07-23
+desktop-21.lewis-hughes.net,172.18.192.40,Windows Server 2022,4,Seguridad,2023-09-20
+web-72.lowe.com,172.19.20.138,Windows Server 2022,16,Operaciones,2023-12-08
+web-76.martin.info,192.168.226.61,Windows Server 2022,4,Seguridad,2024-08-11
+email-15.leonard-graham.org,172.16.15.43,Windows Server 2022,2,Finanzas,2023-11-22
+web-02.navarro-king.com,192.168.8.198,Ubuntu 22.04,32,IT,2025-07-09
+lt-37.brown.biz,10.176.62.164,Windows Server 2022,2,Seguridad,2024-02-27
+email-40.miller-molina.com,192.168.145.13,Windows Server 2019,16,RRHH,2024-01-18
+lt-99.coleman.com,172.22.227.19,Ubuntu 22.04,4,Marketing,2025-09-02
+laptop-38.martinez.info,172.17.63.132,Debian 11,16,Seguridad,2024-12-29
+laptop-44.clayton.com,172.29.145.9,Ubuntu 22.04,16,IT,2025-08-31
+email-18.lopez.com,172.24.95.4,CentOS 7,4,Finanzas,2024-12-30
+desktop-65.roberts.info,172.24.180.99,CentOS 7,4,IT,2023-09-06
+lt-12.norton-walton.com,192.168.254.208,Ubuntu 22.04,64,Marketing,2023-08-06
+email-82.smith.net,192.168.58.100,Ubuntu 22.04,2,Seguridad,2024-06-16
+db-66.evans-ray.info,172.24.244.253,Windows Server 2019,32,Operaciones,2025-05-15
+laptop-42.garcia.net,10.53.135.71,CentOS 7,64,Marketing,2024-07-23
+web-96.smith.com,172.20.224.192,Windows Server 2022,16,RRHH,2026-05-13
+lt-51.collier-rose.com,192.168.245.118,Windows Server 2019,64,RRHH,2023-12-10
+desktop-19.mendoza-brown.biz,10.74.86.14,CentOS 7,4,IT,2024-07-24
+desktop-20.garcia-garza.com,10.168.85.190,Debian 11,16,IT,2023-10-21
+db-13.riley.com,192.168.97.113,Ubuntu 22.04,32,Seguridad,2025-02-11
+desktop-04.jones.info,10.164.193.80,CentOS 7,4,Marketing,2026-05-01
+lt-11.olsen-simmons.net,172.24.156.217,Windows Server 2022,32,Operaciones,2024-06-02
+db-03.griffin.info,172.17.201.52,Windows Server 2019,8,RRHH,2025-04-03
+desktop-37.fox.com,192.168.85.233,Ubuntu 22.04,2,IT,2024-06-07
+web-14.moore.com,192.168.103.211,Windows Server 2019,4,Operaciones,2026-03-20
+web-56.chan.com,192.168.164.168,Windows Server 2019,32,Marketing,2026-02-02
+srv-22.taylor.net,192.168.97.50,CentOS 7,64,RRHH,2025-11-04
+email-53.berry.com,10.235.178.9,Debian 11,64,Operaciones,2024-07-30
+web-76.hays.info,172.29.52.144,Windows Server 2019,2,RRHH,2025-08-10
+lt-08.herman.com,10.105.174.255,Windows Server 2019,64,Marketing,2025-11-17
+srv-22.sanchez.com,192.168.132.4,Debian 11,2,Finanzas,2024-02-11
+desktop-05.ferguson.com,192.168.43.156,Debian 11,64,Marketing,2023-06-25
+db-15.cooley.biz,10.213.102.66,Debian 11,32,Marketing,2023-07-31
+laptop-86.barton.net,192.168.206.153,Windows Server 2022,8,Seguridad,2025-04-27
+db-16.perez.com,10.62.159.178,Ubuntu 22.04,2,Marketing,2025-05-03
+laptop-88.vega.com,192.168.27.82,Windows Server 2022,2,Seguridad,2023-06-02
+web-93.garrison-page.com,172.23.12.75,Ubuntu 22.04,16,RRHH,2024-06-15
+web-00.nelson.com,172.24.164.30,Ubuntu 22.04,2,Seguridad,2023-10-02
+web-81.henry.com,172.19.185.67,Debian 11,16,IT,2023-05-31
+email-58.mercado.com,10.221.57.153,Ubuntu 22.04,8,Finanzas,2024-06-21
+email-04.love.biz,192.168.202.170,Windows Server 2019,8,Seguridad,2025-03-18
+web-58.davidson-harris.com,10.234.207.205,Windows Server 2022,8,Finanzas,2025-05-08
+laptop-68.reyes.com,10.142.174.228,Windows Server 2022,64,Marketing,2023-06-01
+laptop-97.armstrong.biz,172.30.44.250,CentOS 7,2,IT,2023-12-22
+srv-76.banks.com,10.113.232.238,Windows Server 2019,32,Operaciones,2024-09-30
+desktop-90.pierce.com,172.21.221.224,Ubuntu 22.04,64,RRHH,2025-02-09
+web-82.huerta.com,192.168.119.243,Windows Server 2022,64,Seguridad,2023-09-22
+email-05.gonzales.com,172.16.54.101,Ubuntu 22.04,4,RRHH,2025-02-21
+lt-71.walls-wiggins.org,10.172.225.171,Windows Server 2019,64,Marketing,2025-01-10
+email-00.ortiz-bishop.info,192.168.134.228,Ubuntu 22.04,16,Marketing,2026-01-13
+srv-60.collins.com,172.16.247.152,Debian 11,8,RRHH,2025-02-25
+srv-78.rodriguez.com,172.18.48.248,CentOS 7,8,IT,2025-12-08
+email-31.pierce.com,192.168.82.30,Ubuntu 22.04,16,Operaciones,2023-07-07
+db-87.smith.info,172.28.12.159,Windows Server 2022,4,Seguridad,2024-06-24
+email-99.johnson.net,172.25.175.7,Ubuntu 22.04,4,RRHH,2023-08-08
+web-12.gomez.info,172.18.40.127,CentOS 7,2,Finanzas,2025-02-16
+desktop-68.white.com,10.77.189.168,Ubuntu 22.04,4,Marketing,2025-02-24
+srv-46.wright-mckenzie.org,192.168.231.124,Windows Server 2019,2,Marketing,2026-03-29
+web-24.mitchell.com,192.168.244.72,Windows Server 2019,32,Finanzas,2025-07-24
+web-00.moore-brewer.org,172.25.68.77,Debian 11,4,Operaciones,2025-01-15
+desktop-44.mendoza.com,172.31.98.66,Debian 11,32,Finanzas,2025-01-03
+srv-83.glass.com,172.19.125.180,Windows Server 2022,64,Operaciones,2026-05-22
+web-28.moore.com,172.26.22.73,Windows Server 2022,32,Finanzas,2023-07-05
+lt-20.martinez.com,192.168.88.156,CentOS 7,16,Marketing,2024-03-08
+srv-26.adkins.com,192.168.127.198,Ubuntu 22.04,4,Marketing,2026-04-29
+srv-37.woodward.com,192.168.2.112,Windows Server 2022,64,RRHH,2025-03-08
+db-50.blackwell.net,10.79.225.246,Windows Server 2022,2,Operaciones,2025-07-04
+db-13.burch.info,172.29.93.107,Debian 11,8,Operaciones,2024-10-10
+lt-77.baker.com,10.113.99.232,CentOS 7,2,RRHH,2025-02-02
+email-08.frazier.net,192.168.237.122,Windows Server 2019,32,Finanzas,2026-03-16
+desktop-75.todd.net,10.79.235.210,Windows Server 2019,2,Marketing,2024-06-18
+laptop-54.turner.info,172.17.214.64,Windows Server 2022,4,Operaciones,2024-06-30
+web-98.christian.com,172.31.144.215,Debian 11,4,Finanzas,2025-12-17
+laptop-74.wilson.com,192.168.213.237,Debian 11,8,RRHH,2023-12-29
+web-97.torres-harding.com,192.168.71.143,Ubuntu 22.04,64,Marketing,2023-09-10
+laptop-18.diaz.com,10.33.54.99,CentOS 7,32,RRHH,2025-08-13
+web-66.lopez.com,172.23.11.75,Ubuntu 22.04,2,Marketing,2024-12-12
+db-43.lambert.com,10.62.147.26,CentOS 7,4,IT,2025-07-31
+email-68.jensen.com,172.23.198.242,Ubuntu 22.04,4,Marketing,2024-03-09
+email-20.edwards-nguyen.org,10.39.5.243,CentOS 7,64,Marketing,2025-06-17
+laptop-66.davis.com,192.168.44.81,CentOS 7,64,Finanzas,2023-08-28
+laptop-17.jackson-brown.com,172.22.193.40,Windows Server 2022,16,Seguridad,2024-02-15
+db-10.stevens.info,172.31.15.192,Windows Server 2022,16,IT,2024-02-20
+email-25.davis-miller.info,192.168.111.152,CentOS 7,2,IT,2025-05-29
+srv-92.anderson.com,10.211.95.130,Windows Server 2019,16,Seguridad,2025-06-29
+desktop-05.raymond-clarke.com,10.61.162.45,Debian 11,64,Finanzas,2023-09-27
+laptop-67.gutierrez.com,192.168.235.234,Windows Server 2022,32,IT,2025-11-06
+srv-73.salas.net,10.232.118.214,Windows Server 2019,32,Seguridad,2025-12-20
+email-19.mathews.net,10.200.101.88,Windows Server 2022,2,Marketing,2026-04-06
+srv-99.ward.com,10.251.93.53,Windows Server 2019,2,Finanzas,2026-04-19
+email-88.ford.biz,172.23.154.209,Debian 11,2,Operaciones,2023-10-25
+email-28.wells.com,172.18.101.101,Windows Server 2019,32,Operaciones,2026-02-02
+srv-91.hall-santos.com,172.25.172.125,Windows Server 2022,64,Marketing,2025-05-14
+db-24.gonzalez.biz,172.21.187.245,CentOS 7,8,Marketing,2025-06-21
+db-65.welch-cox.com,192.168.249.143,Windows Server 2019,32,RRHH,2024-06-14
+laptop-91.woodward.com,10.109.154.85,Windows Server 2019,4,Marketing,2023-07-01
+srv-43.cabrera-owen.com,192.168.200.195,Windows Server 2019,2,RRHH,2024-03-27
+laptop-76.mills-brown.com,172.25.48.65,Debian 11,64,Marketing,2025-05-16
+email-12.smith.info,192.168.148.12,Windows Server 2019,8,IT,2025-08-02
+web-80.ford.com,10.11.243.188,CentOS 7,16,IT,2025-09-28
+db-89.clark.info,10.68.157.16,Windows Server 2022,16,Seguridad,2023-12-24
+email-58.blackburn.com,192.168.143.10,Windows Server 2022,4,Seguridad,2023-12-28
+db-95.nelson-trujillo.com,10.21.68.20,CentOS 7,2,IT,2023-06-24
+web-31.washington.info,10.251.232.198,CentOS 7,16,IT,2025-08-09
+laptop-25.allen.com,10.58.135.25,Windows Server 2019,64,Operaciones,2025-12-18
+laptop-19.castillo.com,192.168.48.190,CentOS 7,32,RRHH,2023-10-09
+db-10.figueroa.org,10.97.72.125,Debian 11,2,Seguridad,2026-02-13
+email-18.price.biz,192.168.155.170,CentOS 7,32,IT,2024-10-08
+laptop-22.lewis-medina.com,172.24.50.91,Ubuntu 22.04,16,Marketing,2026-05-22
+lt-05.anderson.com,192.168.137.113,CentOS 7,8,Seguridad,2025-06-21
+srv-49.foster-lee.net,172.18.120.208,Windows Server 2019,32,Seguridad,2023-10-17
+srv-08.wagner-davis.com,192.168.178.51,Ubuntu 22.04,16,Seguridad,2026-05-25
+db-29.floyd-boyd.org,192.168.188.251,CentOS 7,8,Operaciones,2023-09-19
+laptop-13.santos.com,10.170.4.65,Windows Server 2022,8,Seguridad,2026-03-01
+srv-79.madden.info,192.168.183.148,Debian 11,4,Finanzas,2025-02-04
+db-56.lewis.com,192.168.56.48,CentOS 7,16,Operaciones,2024-07-14
+web-65.middleton.com,192.168.54.209,Debian 11,32,Marketing,2026-02-26
+srv-70.harris-martin.com,172.21.64.181,Windows Server 2022,4,RRHH,2023-08-04
+lt-09.esparza.com,10.159.186.185,Debian 11,32,RRHH,2023-11-17
+srv-47.hanson.com,172.31.129.87,Ubuntu 22.04,16,Seguridad,2024-06-26
+desktop-77.webb-bryant.net,172.28.6.70,Ubuntu 22.04,16,IT,2024-12-02
+desktop-46.jarvis.com,172.19.214.204,Windows Server 2019,8,IT,2024-01-14
+laptop-06.thomas-martin.net,10.192.209.164,Debian 11,4,Operaciones,2025-12-07
+db-64.french.com,192.168.248.247,Windows Server 2022,32,RRHH,2026-01-12
+email-87.perez-weaver.com,10.147.200.55,Windows Server 2022,64,Finanzas,2024-01-17
+web-61.davis-gonzalez.info,10.94.221.243,Ubuntu 22.04,32,RRHH,2025-02-28
+email-22.gonzales-williams.com,10.244.112.181,Windows Server 2019,2,Seguridad,2023-12-14
+desktop-78.ferguson-snyder.net,10.199.188.47,Windows Server 2019,2,IT,2025-01-12
+desktop-14.williams.com,10.148.18.13,Debian 11,64,Finanzas,2023-07-28
+email-13.moon.com,172.31.56.111,Ubuntu 22.04,64,RRHH,2025-10-08
+web-86.hamilton.net,10.122.37.173,Debian 11,32,Marketing,2025-12-04
+laptop-75.rodgers.org,192.168.171.242,Windows Server 2019,8,Marketing,2025-04-20
+laptop-17.lambert.biz,172.25.34.18,Windows Server 2022,2,Seguridad,2024-03-14
+desktop-59.perez.net,192.168.93.61,Windows Server 2019,8,Operaciones,2025-08-13
+db-86.robinson.org,10.182.19.10,Windows Server 2022,8,IT,2025-12-23
+web-20.brooks-smith.com,10.250.199.201,CentOS 7,8,Marketing,2023-10-18
+web-38.johnston.com,172.27.193.33,Ubuntu 22.04,4,Finanzas,2026-01-18
+srv-21.young.info,172.30.18.69,Debian 11,4,Marketing,2025-03-18
+srv-77.wallace.info,10.49.151.62,Windows Server 2022,64,Seguridad,2023-08-30
+srv-33.anderson-hall.com,10.103.37.16,Windows Server 2019,32,RRHH,2025-07-31
+laptop-62.garcia.com,192.168.205.201,Debian 11,32,Finanzas,2025-05-31
+email-04.sparks-page.com,192.168.184.133,Ubuntu 22.04,64,IT,2023-08-19
+db-87.orr-cooper.org,192.168.71.99,Windows Server 2019,8,RRHH,2024-02-24
+srv-27.jensen-thomas.com,192.168.74.27,Windows Server 2019,16,Finanzas,2026-02-01
+lt-08.baker.com,172.29.204.19,Windows Server 2022,2,Finanzas,2024-03-15
+db-24.huynh.com,10.90.2.239,Windows Server 2019,64,Marketing,2024-12-30
+srv-45.skinner.net,10.163.70.54,CentOS 7,32,Operaciones,2024-08-09
+db-47.graham.com,10.82.128.58,Windows Server 2022,8,Marketing,2024-11-15
+laptop-26.franklin.biz,10.36.110.104,Windows Server 2019,64,Seguridad,2023-11-27
+email-93.gonzalez.com,172.30.20.98,Ubuntu 22.04,8,IT,2025-02-16
+web-74.bennett.com,192.168.109.22,Windows Server 2022,64,Marketing,2023-11-13
+laptop-51.graham.net,192.168.214.134,Windows Server 2019,4,Finanzas,2023-05-29
+srv-55.howard-callahan.org,10.109.213.239,Ubuntu 22.04,64,Operaciones,2026-03-08
+db-55.mcintyre-alexander.com,10.129.10.117,Debian 11,16,RRHH,2025-12-04
+web-57.clark.com,172.23.232.142,Debian 11,64,Marketing,2026-01-08
+web-66.porter.info,192.168.171.94,Windows Server 2019,16,Marketing,2026-01-06
+srv-74.crosby-walker.com,192.168.69.192,Windows Server 2022,16,IT,2024-01-17
+lt-62.smith.com,10.102.240.68,Windows Server 2022,4,IT,2024-04-13
+laptop-90.walker.biz,192.168.199.144,Ubuntu 22.04,64,RRHH,2023-11-04
+db-56.cook-smith.com,172.20.42.35,CentOS 7,32,Finanzas,2024-08-23
+web-51.ross-scott.com,192.168.89.36,Ubuntu 22.04,16,Operaciones,2024-05-09
+laptop-94.nunez-ward.com,172.16.122.179,Debian 11,4,RRHH,2024-03-28
+laptop-39.chung-bowers.com,192.168.134.2,Debian 11,32,RRHH,2023-11-13
+web-88.mayer.org,192.168.110.208,Windows Server 2019,2,Finanzas,2024-11-07
+db-88.russell.com,10.78.122.52,CentOS 7,8,Seguridad,2025-06-19
+lt-32.mccarthy-camacho.com,10.202.159.219,Ubuntu 22.04,64,RRHH,2025-02-23
+srv-89.marshall.com,10.7.3.183,Windows Server 2022,4,RRHH,2025-02-26
+db-74.holmes.com,10.85.185.251,Windows Server 2019,32,IT,2024-11-17
+desktop-89.ortiz.com,192.168.222.85,Ubuntu 22.04,4,Operaciones,2023-12-28
+email-35.martinez.info,172.24.99.136,Windows Server 2022,2,Finanzas,2026-03-22
+desktop-20.evans.com,192.168.183.3,Debian 11,2,RRHH,2024-10-06
+desktop-41.jones.net,192.168.108.177,Windows Server 2022,2,Operaciones,2024-01-20
+desktop-28.reed-smith.com,172.20.170.4,CentOS 7,16,Finanzas,2024-02-20
+web-97.baker.net,10.98.22.254,CentOS 7,8,Finanzas,2024-07-05
+desktop-70.smith.net,10.251.191.50,CentOS 7,8,Finanzas,2024-01-06
+lt-32.jenkins-fleming.com,10.139.94.36,Ubuntu 22.04,8,IT,2025-11-09
+web-97.lowe-evans.com,10.21.68.234,Windows Server 2019,4,Seguridad,2024-03-21
+email-16.todd-patrick.info,192.168.98.26,Windows Server 2022,32,IT,2025-01-21
+srv-56.willis-clark.info,10.26.68.122,Windows Server 2019,4,Operaciones,2023-09-17
+web-13.davies.net,192.168.210.144,CentOS 7,16,Finanzas,2026-04-27
+email-38.martinez.com,172.26.159.133,Ubuntu 22.04,8,Operaciones,2025-09-29
+web-38.hebert.com,172.16.180.180,CentOS 7,2,RRHH,2025-12-18
+email-70.jones.org,192.168.147.47,Windows Server 2022,16,Seguridad,2023-08-02
+web-95.knight.info,192.168.35.179,Windows Server 2022,4,Finanzas,2025-01-05
+srv-52.walters.com,172.24.59.172,CentOS 7,64,RRHH,2024-10-23
+web-92.mooney-duarte.com,172.23.144.91,CentOS 7,2,RRHH,2024-10-23
+web-42.bowman.com,10.118.6.156,Debian 11,32,Operaciones,2025-09-26
+srv-79.espinoza.com,10.74.54.234,Windows Server 2022,4,Marketing,2023-09-24
+email-61.green.com,172.28.180.248,Windows Server 2022,64,Marketing,2024-05-27
+desktop-11.cunningham.com,192.168.252.1,Debian 11,32,IT,2025-07-09
+desktop-81.jordan.net,192.168.236.80,Debian 11,32,IT,2023-07-23
+lt-86.taylor.com,192.168.187.209,CentOS 7,4,IT,2026-01-29
+db-57.trujillo.net,172.16.78.154,Windows Server 2022,8,Operaciones,2024-06-29
+lt-59.greer.org,192.168.127.55,Windows Server 2022,4,Operaciones,2025-01-14
+email-63.miles-simmons.com,10.26.149.191,CentOS 7,64,IT,2025-05-18
+srv-33.hall.com,192.168.43.181,Windows Server 2019,4,Finanzas,2025-01-21
+web-93.barron-pace.com,172.21.107.234,CentOS 7,2,IT,2023-12-24
+desktop-77.villa.biz,172.27.2.112,Ubuntu 22.04,4,RRHH,2025-02-05
+srv-50.pierce.biz,192.168.103.115,CentOS 7,32,Operaciones,2024-03-25
+laptop-02.gonzales-lawrence.net,192.168.157.183,Debian 11,4,Marketing,2025-09-13
+email-21.perez-nielsen.com,172.27.16.89,Debian 11,16,IT,2026-02-22
+db-15.martinez-wilson.info,10.89.161.148,Debian 11,32,RRHH,2023-09-30
+desktop-31.singleton.info,10.36.98.219,Ubuntu 22.04,4,Finanzas,2023-12-29
+lt-67.boone.com,10.59.127.183,CentOS 7,4,RRHH,2023-06-06
+laptop-84.flowers.net,192.168.214.147,Ubuntu 22.04,8,IT,2025-07-26
+web-56.martinez.com,192.168.165.244,CentOS 7,16,RRHH,2024-05-11
+laptop-10.frost.biz,10.247.180.147,CentOS 7,32,RRHH,2025-01-23
+lt-27.hooper.com,10.101.91.168,CentOS 7,16,Finanzas,2024-05-07
+srv-18.edwards-pierce.com,10.206.30.80,Debian 11,2,Finanzas,2025-12-20
+db-71.carroll.com,172.17.36.6,CentOS 7,2,RRHH,2025-12-26
+email-71.fischer-campbell.info,10.162.8.24,Windows Server 2022,32,Seguridad,2023-12-02
+srv-68.nelson.com,10.125.161.246,Debian 11,4,Marketing,2025-11-05
+srv-38.castillo.com,172.20.56.238,Windows Server 2022,16,Operaciones,2025-03-23
+lt-93.morgan.info,192.168.45.231,Ubuntu 22.04,64,Marketing,2023-10-21
+email-62.hall-bennett.com,172.27.108.22,Debian 11,4,Operaciones,2026-01-22
+desktop-12.parks.com,10.48.114.238,Ubuntu 22.04,16,RRHH,2025-01-03
+desktop-44.owens.net,10.181.24.136,Windows Server 2022,2,Finanzas,2026-02-17
+desktop-29.stewart.com,10.230.199.40,Windows Server 2019,4,IT,2023-11-09
+web-71.young-compton.com,10.60.89.24,Ubuntu 22.04,16,Marketing,2025-07-07
+lt-52.johnson.com,192.168.227.206,Debian 11,2,RRHH,2023-09-18
+web-34.whitehead.com,192.168.29.77,Debian 11,16,Seguridad,2025-07-21
+desktop-69.mathews-gardner.com,172.16.228.51,Debian 11,16,Finanzas,2023-07-11
+srv-90.lozano-brown.net,172.21.249.84,CentOS 7,64,Marketing,2026-04-05
+db-98.hodges-eaton.net,192.168.153.199,CentOS 7,16,Marketing,2024-08-24
+srv-57.preston.net,192.168.32.131,Windows Server 2019,64,Seguridad,2024-11-04
+web-83.baker.org,172.22.178.152,CentOS 7,8,IT,2024-09-30
+web-59.barnes.org,10.102.91.48,Windows Server 2019,8,Finanzas,2026-02-25
+web-51.sanchez-hernandez.com,172.25.172.65,Debian 11,8,Operaciones,2023-05-30
+laptop-98.turner.com,192.168.10.48,CentOS 7,8,Marketing,2025-11-29
+web-48.garcia.biz,192.168.27.31,Ubuntu 22.04,8,Finanzas,2024-07-03
+email-44.black.net,10.78.208.27,Ubuntu 22.04,64,Marketing,2026-03-05
+web-09.buchanan.com,172.30.22.240,Debian 11,4,Seguridad,2025-08-06
+lt-23.ortiz-smith.com,172.20.125.237,Windows Server 2022,2,Finanzas,2025-11-02
+lt-95.morales.com,172.18.183.153,Windows Server 2019,64,Finanzas,2024-04-30
+desktop-14.sanchez-williams.net,192.168.172.76,Debian 11,64,Operaciones,2024-11-01
+srv-91.chandler.biz,192.168.35.3,Debian 11,32,RRHH,2024-08-31
+email-15.melendez.info,192.168.67.90,Ubuntu 22.04,64,Operaciones,2024-08-29
+srv-49.atkins.com,10.245.147.20,Ubuntu 22.04,16,Operaciones,2026-04-15
+db-19.clark.com,192.168.239.58,Debian 11,16,IT,2023-12-25
+srv-47.li-li.org,10.117.72.33,Windows Server 2019,2,Finanzas,2025-09-05
+srv-68.berry.org,10.83.234.14,Windows Server 2022,2,Seguridad,2026-02-20
+db-72.parsons-clark.com,192.168.85.239,CentOS 7,4,IT,2023-06-05
+web-90.robinson.net,172.25.90.97,Windows Server 2022,64,Marketing,2025-12-31
+lt-65.jackson.net,192.168.80.155,Windows Server 2019,64,IT,2024-08-30
+email-26.jenkins-flores.com,192.168.156.76,Windows Server 2022,4,Seguridad,2023-12-19
+email-00.wells-walker.biz,172.29.5.194,Windows Server 2022,64,IT,2024-11-13
+laptop-87.escobar-norton.org,172.25.145.57,Windows Server 2022,4,RRHH,2025-05-30
+srv-55.santos.info,192.168.108.69,Ubuntu 22.04,16,Seguridad,2024-07-19
+laptop-40.wolfe.com,172.20.170.179,Ubuntu 22.04,32,IT,2023-12-04
+lt-79.floyd.com,10.53.136.56,CentOS 7,32,IT,2024-01-11
+db-03.freeman.biz,172.26.12.48,Windows Server 2019,16,Finanzas,2025-02-14
+laptop-95.franklin.com,172.30.49.85,Ubuntu 22.04,32,Marketing,2024-02-02
+db-81.scott.com,192.168.47.145,Windows Server 2022,8,Marketing,2025-05-03
+web-02.munoz.com,192.168.168.150,Debian 11,2,Marketing,2025-06-25
+desktop-81.gonzalez-morris.com,172.26.156.139,Windows Server 2019,4,Seguridad,2026-01-22
+lt-16.price.com,172.26.14.8,Debian 11,8,RRHH,2024-10-30
+srv-20.heath.info,172.19.216.111,Debian 11,16,Finanzas,2023-06-06
+lt-66.harrison.com,10.121.87.119,Debian 11,32,Seguridad,2026-03-24
+desktop-42.woods.biz,192.168.78.65,CentOS 7,8,Finanzas,2025-04-02
+srv-48.patel.com,192.168.7.74,Windows Server 2019,2,Finanzas,2025-04-06
+db-88.turner.com,10.239.146.143,Debian 11,64,Seguridad,2023-11-06
+email-80.jones.com,10.27.135.200,Ubuntu 22.04,4,Operaciones,2023-08-04
+db-53.gonzalez-fox.com,192.168.157.199,Windows Server 2022,2,IT,2024-08-08
+desktop-51.guerrero.com,192.168.158.199,Windows Server 2019,4,Seguridad,2025-08-21
+lt-54.ward.com,10.231.231.56,Windows Server 2019,4,Finanzas,2025-04-03
+web-99.jacobs-gardner.info,172.16.36.38,CentOS 7,32,Operaciones,2026-03-01
+srv-20.garza.com,192.168.3.34,Ubuntu 22.04,16,Operaciones,2024-10-07
+srv-77.black-carlson.com,192.168.227.111,Windows Server 2019,2,RRHH,2025-01-05
+email-80.jones.info,172.24.64.172,Windows Server 2022,32,Finanzas,2023-11-02
+lt-23.montes-james.com,192.168.19.22,Ubuntu 22.04,64,Seguridad,2025-01-21
+desktop-55.king.com,172.19.65.184,Windows Server 2022,8,Seguridad,2025-10-03
+lt-41.thompson-keller.com,192.168.177.232,Ubuntu 22.04,16,RRHH,2024-03-08
+desktop-35.baird.com,10.82.63.208,Windows Server 2022,16,Seguridad,2023-06-03
+laptop-78.perez.com,192.168.102.215,CentOS 7,4,Finanzas,2025-12-27
+srv-48.parker.net,192.168.2.14,Ubuntu 22.04,4,Marketing,2024-03-29
+lt-84.larsen-romero.org,192.168.14.102,Windows Server 2022,16,IT,2023-07-27
+lt-36.church.com,172.16.160.153,Ubuntu 22.04,16,IT,2026-03-25
+desktop-55.rowland.info,192.168.241.46,Windows Server 2022,2,IT,2024-05-14
+db-03.carpenter-burke.com,10.101.244.86,Windows Server 2019,64,Operaciones,2023-08-29
+web-34.montgomery-stafford.com,172.17.216.208,Windows Server 2019,8,IT,2024-03-16
+email-36.beltran-young.com,172.18.13.132,Debian 11,2,Operaciones,2025-08-24
+desktop-25.day.com,10.106.213.43,Windows Server 2019,64,Operaciones,2025-02-05
+db-35.wright-brown.biz,10.15.247.204,Debian 11,8,Operaciones,2025-02-20
+desktop-17.rodriguez.biz,10.104.156.130,Windows Server 2022,32,Finanzas,2024-06-16
+laptop-06.thompson-hill.biz,192.168.186.249,Windows Server 2019,4,Marketing,2025-12-02
+lt-88.miles.com,10.161.16.177,CentOS 7,4,IT,2024-10-24
+email-90.patterson.info,192.168.253.86,Debian 11,16,Seguridad,2024-11-23
+db-29.hamilton.org,10.53.131.211,Windows Server 2019,4,Seguridad,2025-08-28
+srv-74.silva.com,10.157.123.0,CentOS 7,16,Finanzas,2025-02-14
+lt-99.smith.biz,192.168.162.52,Ubuntu 22.04,4,IT,2025-07-14
+srv-16.mitchell.com,192.168.61.25,Windows Server 2022,8,Finanzas,2026-03-24
+srv-26.serrano.net,10.224.40.209,Ubuntu 22.04,64,IT,2025-06-30
+laptop-02.henry-clements.com,10.8.216.138,Windows Server 2019,8,Marketing,2026-03-17
+srv-74.eaton.net,172.26.195.9,CentOS 7,2,IT,2026-02-19
+web-37.stout.com,172.28.155.34,Debian 11,64,Seguridad,2025-06-07
+desktop-11.preston-fernandez.com,192.168.44.31,Debian 11,2,Seguridad,2025-07-29
+srv-62.long.net,172.24.100.202,CentOS 7,4,Finanzas,2024-04-20
+laptop-86.lee.com,10.19.37.161,Windows Server 2022,64,Marketing,2025-02-03
+lt-03.alexander.info,10.176.17.50,CentOS 7,32,Seguridad,2025-07-24
+web-36.berger.com,172.30.120.56,Ubuntu 22.04,64,Finanzas,2023-11-22
+web-43.moran.org,192.168.159.182,Windows Server 2019,32,Operaciones,2026-01-02
+web-90.taylor.com,10.214.36.252,Windows Server 2022,64,Seguridad,2026-04-05
+laptop-12.gibson-carey.com,172.20.235.101,Debian 11,4,RRHH,2025-05-26
+lt-88.grant-nelson.net,172.28.205.12,Windows Server 2019,2,Marketing,2025-05-12
+desktop-94.vance.com,172.23.49.24,CentOS 7,64,Seguridad,2024-06-24
+desktop-15.barnes.net,10.245.91.242,Ubuntu 22.04,64,IT,2024-01-16
+srv-39.allen.org,192.168.252.104,Windows Server 2019,4,Finanzas,2023-11-26
+srv-02.wilson-burke.com,172.20.195.69,Debian 11,2,Seguridad,2024-06-22
+desktop-24.jackson-barry.com,10.37.20.143,Ubuntu 22.04,8,RRHH,2026-05-09
+email-28.brennan.biz,192.168.172.119,Debian 11,2,Marketing,2024-02-04
+lt-26.brown.biz,10.192.26.219,Windows Server 2019,4,Operaciones,2024-08-20
+db-60.olson.com,192.168.68.177,Windows Server 2019,8,Seguridad,2025-08-18
+laptop-62.rodriguez.biz,192.168.179.244,Windows Server 2019,8,IT,2024-06-04
+db-90.williams.net,10.12.60.9,Debian 11,32,IT,2024-06-13
+lt-33.jones-hudson.com,192.168.183.149,Debian 11,8,Marketing,2023-10-29
+web-82.macias.org,192.168.197.53,Debian 11,64,Marketing,2023-12-17
+laptop-81.casey.com,192.168.19.82,Windows Server 2022,16,Seguridad,2026-05-17
+web-10.whitney-burton.info,172.31.83.47,Windows Server 2019,64,Operaciones,2024-12-01
+laptop-01.garcia.com,172.16.226.253,Windows Server 2022,2,Finanzas,2024-02-21
+desktop-23.simmons-sharp.info,192.168.170.224,Ubuntu 22.04,64,Operaciones,2025-06-06
+db-34.fitzgerald.com,192.168.136.69,CentOS 7,32,IT,2024-08-09
+web-82.smith-thompson.com,10.118.210.207,Debian 11,32,Finanzas,2023-11-09
+desktop-31.yang-nichols.org,172.19.223.85,Debian 11,4,Finanzas,2025-05-08
+email-03.little.biz,192.168.230.163,CentOS 7,16,Operaciones,2025-02-24
+laptop-74.jacobs.com,10.162.131.125,Windows Server 2019,8,Operaciones,2024-09-05
+desktop-92.king.com,192.168.34.24,CentOS 7,32,Seguridad,2025-10-12
+web-71.hodge.com,192.168.226.130,Windows Server 2019,8,RRHH,2025-06-30
+lt-94.johnson.net,192.168.237.229,Windows Server 2022,4,Seguridad,2024-08-12
+email-80.johnson.info,10.181.115.91,Ubuntu 22.04,2,RRHH,2024-07-16
+lt-19.herrera.info,10.105.42.116,CentOS 7,64,Finanzas,2026-02-04
+srv-04.wong-kim.org,10.227.105.251,Windows Server 2022,16,Marketing,2023-08-27
+email-99.brewer.com,172.20.116.213,Debian 11,64,RRHH,2024-01-31
+lt-18.evans.com,172.24.92.42,CentOS 7,8,Finanzas,2024-02-09
+srv-51.franklin.com,10.143.175.111,Debian 11,32,Finanzas,2024-08-20
+web-25.ramirez-lewis.com,10.195.109.251,CentOS 7,16,Seguridad,2025-08-28
+lt-40.cannon-davis.com,10.13.143.16,Windows Server 2019,32,Finanzas,2025-03-07
+web-07.monroe.com,10.148.37.181,Windows Server 2019,2,Operaciones,2024-03-25
+desktop-17.campbell.com,172.19.43.33,Debian 11,16,Operaciones,2023-06-08
+laptop-28.huff.com,172.29.204.140,Debian 11,8,Marketing,2025-05-19
+laptop-34.cox.com,172.30.222.159,Debian 11,8,Seguridad,2024-01-29
+email-99.walton-anderson.com,10.194.111.230,Windows Server 2019,8,RRHH,2025-12-10
+srv-89.mcclain.com,172.29.175.6,Windows Server 2019,2,RRHH,2024-12-07
+laptop-18.bradford.biz,10.62.208.201,Windows Server 2022,32,RRHH,2024-12-12
+laptop-38.foster-hernandez.com,192.168.250.15,Windows Server 2022,8,Marketing,2024-07-12
+db-44.warren.com,192.168.49.50,Ubuntu 22.04,64,IT,2025-12-29
+lt-10.mack-greer.com,172.24.101.243,Windows Server 2022,64,IT,2023-08-17
+db-16.martin-ward.net,192.168.116.219,CentOS 7,4,Finanzas,2025-11-10
+lt-39.gutierrez.com,10.194.42.117,CentOS 7,64,Marketing,2023-07-30
+srv-18.dominguez-fitzgerald.biz,10.214.172.247,Ubuntu 22.04,2,Marketing,2023-08-12
+laptop-95.jones-chavez.com,192.168.60.59,CentOS 7,2,Seguridad,2024-01-24
+lt-00.haynes-davis.biz,10.219.115.50,Windows Server 2022,32,Operaciones,2026-04-01
+web-71.bautista.com,172.27.197.61,Ubuntu 22.04,2,Seguridad,2024-04-17
+db-74.mcdonald.info,10.153.130.47,Windows Server 2022,8,Operaciones,2026-03-27
+lt-21.smith-gray.com,10.82.251.148,CentOS 7,8,Operaciones,2026-04-04
+email-06.green.info,192.168.52.85,Windows Server 2022,8,Marketing,2026-05-10
+lt-68.salinas.com,172.20.10.87,Windows Server 2019,32,Marketing,2025-03-31
+srv-63.robinson-mclean.com,192.168.32.83,Windows Server 2019,8,Operaciones,2025-07-14
+email-40.powell.net,192.168.174.249,Windows Server 2022,32,RRHH,2024-04-24
+email-84.waller.com,172.23.167.116,Ubuntu 22.04,64,Seguridad,2025-07-04
+desktop-84.hayes.info,192.168.227.236,Windows Server 2019,2,Finanzas,2025-06-18
+email-84.mitchell.com,10.15.112.101,Debian 11,4,RRHH,2024-08-24
+laptop-69.higgins.com,192.168.177.249,Windows Server 2019,2,Seguridad,2024-04-02
+desktop-38.beck.com,192.168.93.113,CentOS 7,4,IT,2025-02-20
+laptop-76.thomas.com,192.168.237.17,Windows Server 2022,16,RRHH,2024-12-10
+db-64.underwood.com,192.168.108.110,Debian 11,16,Operaciones,2024-07-07
+email-65.silva.org,192.168.132.210,Debian 11,4,Marketing,2025-05-15
+desktop-92.underwood.com,192.168.142.134,CentOS 7,16,Seguridad,2024-03-28
+srv-05.norris.com,10.25.182.8,Debian 11,4,Marketing,2026-05-20
+desktop-95.ryan.info,192.168.138.27,Windows Server 2019,32,Seguridad,2025-05-16
+lt-67.jones.com,10.185.235.56,CentOS 7,16,RRHH,2025-01-31
+email-89.curtis.com,192.168.248.107,CentOS 7,32,Operaciones,2026-05-19
+laptop-07.flores.info,10.89.218.114,Debian 11,16,Marketing,2024-12-30
+srv-60.reed.net,172.25.59.99,Debian 11,4,IT,2024-04-04
+desktop-96.robinson.com,10.206.246.115,Debian 11,16,Operaciones,2024-03-27
+laptop-19.miller-lee.com,192.168.202.227,Windows Server 2022,4,Finanzas,2023-07-14
+laptop-13.johnson.com,10.78.230.139,Windows Server 2019,8,Seguridad,2026-02-12
+desktop-25.ryan.biz,10.239.195.143,Ubuntu 22.04,64,Finanzas,2025-08-20
+db-84.bautista-guzman.com,192.168.150.76,Ubuntu 22.04,2,Seguridad,2024-11-28
+db-26.williams-anderson.org,10.79.45.39,Debian 11,8,IT,2024-02-27
+laptop-07.russell-wood.biz,192.168.172.12,Debian 11,64,Finanzas,2024-09-29
+srv-42.jackson.biz,10.39.109.188,Windows Server 2022,64,Seguridad,2025-06-07
+srv-83.rocha.net,172.28.193.114,Debian 11,16,Marketing,2023-08-02
+desktop-96.tran-bell.com,192.168.128.175,Debian 11,64,Operaciones,2025-11-14
+web-42.foster-davis.com,172.16.212.202,CentOS 7,4,Seguridad,2026-04-25
+desktop-23.kennedy.com,192.168.170.147,Windows Server 2019,32,RRHH,2024-03-25
+laptop-40.holder-weiss.net,172.28.150.242,Debian 11,4,Finanzas,2025-11-28
+email-13.horn-smith.com,192.168.83.173,Windows Server 2019,2,Seguridad,2025-10-11
+lt-12.nguyen.com,192.168.116.14,Windows Server 2019,32,Operaciones,2025-01-22
+web-67.gilbert.com,172.17.99.141,Windows Server 2019,32,Operaciones,2026-01-03
+db-00.wilson.biz,192.168.198.167,Ubuntu 22.04,8,RRHH,2026-02-26
+lt-15.wade.biz,172.23.252.17,Windows Server 2019,8,Finanzas,2023-06-20
+db-55.hampton.info,172.21.145.147,CentOS 7,16,RRHH,2023-06-29
+web-37.adams.com,10.176.199.80,CentOS 7,32,Marketing,2025-04-19
+web-23.king.com,10.128.102.15,Windows Server 2019,8,IT,2026-04-25
+srv-87.dawson.com,10.63.243.44,Ubuntu 22.04,16,Marketing,2026-02-02
+email-04.mills.com,192.168.213.117,Ubuntu 22.04,8,RRHH,2025-12-19
+db-54.elliott-rice.com,192.168.193.146,Windows Server 2022,4,Seguridad,2023-08-08
+lt-39.cortez-page.com,10.251.246.89,Windows Server 2022,32,Finanzas,2025-06-10
+laptop-72.mcdowell.com,192.168.87.242,Windows Server 2022,4,RRHH,2026-03-27
+db-40.welch-romero.com,10.156.70.104,Windows Server 2019,16,IT,2024-07-12
+srv-84.green.com,172.20.9.161,Ubuntu 22.04,32,Finanzas,2024-08-02
+desktop-49.savage-jackson.com,172.26.210.115,Ubuntu 22.04,8,Seguridad,2023-07-28
+db-00.gibson-vaughn.com,10.99.160.122,Debian 11,64,RRHH,2025-09-29
+web-62.mitchell.com,192.168.215.232,Windows Server 2022,4,Marketing,2024-01-24
+laptop-84.johnson-hamilton.com,172.25.128.180,CentOS 7,16,RRHH,2023-06-25
+laptop-91.lewis.biz,10.228.105.252,Ubuntu 22.04,32,IT,2025-03-28
+lt-68.robinson.com,172.26.6.89,Windows Server 2022,4,Operaciones,2024-02-10
+db-81.gonzalez.com,10.113.47.36,Windows Server 2019,2,Seguridad,2024-03-03
+desktop-50.nelson.com,192.168.63.67,CentOS 7,16,Operaciones,2025-05-23
+lt-42.moore-harrison.com,192.168.96.29,CentOS 7,2,IT,2026-02-12
+lt-99.brewer-mcbride.net,192.168.191.37,Windows Server 2019,8,RRHH,2024-04-30
+laptop-74.rodriguez-burns.com,192.168.101.122,Debian 11,32,Marketing,2025-12-06
+db-48.branch.com,192.168.194.16,Ubuntu 22.04,2,Seguridad,2024-03-24
+email-37.gutierrez.com,10.72.128.132,CentOS 7,2,Finanzas,2025-03-25
+laptop-09.johnson.com,172.24.89.163,Ubuntu 22.04,2,Marketing,2025-06-21
+srv-79.webb-martinez.com,10.19.230.114,Windows Server 2022,16,IT,2025-03-27
+db-84.washington.com,192.168.33.197,Debian 11,2,Operaciones,2025-02-18
+laptop-86.tucker.com,192.168.194.100,CentOS 7,32,Seguridad,2023-10-16
+db-13.kelly-bell.info,10.234.197.148,Windows Server 2022,16,IT,2025-03-31
+lt-84.deleon.com,10.29.222.158,CentOS 7,4,Operaciones,2024-11-06
+lt-82.shields.info,172.28.156.163,Ubuntu 22.04,16,Operaciones,2024-06-25
+db-07.white.net,10.149.98.71,CentOS 7,2,Seguridad,2025-12-25
+lt-18.buck.com,192.168.160.160,Debian 11,16,RRHH,2023-11-08
+email-93.knight.com,192.168.132.189,Ubuntu 22.04,2,IT,2026-03-07
+email-22.taylor-miller.com,172.20.46.45,Debian 11,32,Seguridad,2025-03-03
+email-15.brown.com,172.17.196.184,Debian 11,8,IT,2023-06-21
+email-29.black.com,172.17.172.166,Debian 11,4,RRHH,2025-11-07
+laptop-25.snow.net,172.29.142.152,Windows Server 2019,2,Seguridad,2025-08-02
+desktop-26.morgan-harris.org,192.168.95.215,CentOS 7,4,Marketing,2025-05-17
+lt-31.castillo.com,192.168.86.173,Windows Server 2022,16,Marketing,2025-03-09
+web-23.davis.org,10.183.175.190,Debian 11,4,Seguridad,2024-08-03
+lt-16.smith.com,172.25.66.189,Windows Server 2022,64,IT,2024-07-05
+lt-13.hernandez.com,172.26.68.215,Windows Server 2022,8,Finanzas,2025-06-14
+laptop-15.schmidt-chung.com,10.157.114.90,Windows Server 2022,8,RRHH,2026-02-17
+db-62.duke.com,172.24.146.204,Windows Server 2022,16,RRHH,2024-07-11
+desktop-06.frost.com,172.24.223.209,Debian 11,64,Finanzas,2024-11-20
+laptop-38.cobb-alexander.com,192.168.105.199,CentOS 7,8,Finanzas,2023-10-30
+email-10.lee.org,10.50.223.2,CentOS 7,32,Operaciones,2024-05-09
+laptop-54.boyle-thomas.org,192.168.79.1,Windows Server 2022,32,Finanzas,2025-08-20
+srv-26.manning-morris.org,172.30.107.190,Debian 11,4,Operaciones,2023-12-06
+srv-58.allen-valenzuela.com,10.187.118.242,Windows Server 2019,4,Marketing,2023-07-10
+web-28.holt-taylor.biz,10.218.79.160,Windows Server 2022,4,Seguridad,2026-01-31
+desktop-86.cruz.com,172.31.40.114,CentOS 7,2,Marketing,2025-06-15
+email-38.brown-kennedy.com,172.18.71.137,Ubuntu 22.04,16,Finanzas,2026-04-09
+web-63.porter-brown.com,172.19.219.28,Ubuntu 22.04,2,Finanzas,2025-08-03
+srv-37.miller-stephens.com,172.21.50.153,Ubuntu 22.04,4,Seguridad,2026-03-09
+web-60.rhodes.com,172.26.222.165,Windows Server 2019,4,Marketing,2024-11-15
+lt-25.williams-martinez.biz,192.168.131.18,CentOS 7,64,Operaciones,2024-08-10
+db-86.stein.com,172.28.90.5,Windows Server 2022,8,Operaciones,2024-08-01
+web-00.vasquez.com,10.146.154.127,Windows Server 2022,2,Operaciones,2026-03-04
+web-26.austin-mason.net,10.14.91.122,Windows Server 2019,4,Marketing,2024-07-21
+web-54.thompson-cortez.biz,10.2.75.68,Ubuntu 22.04,64,Seguridad,2025-09-14
+laptop-73.james-jones.biz,172.20.30.74,Debian 11,4,Seguridad,2023-08-03
+lt-92.thompson.com,10.188.212.232,Windows Server 2022,2,Operaciones,2024-02-20
+web-29.williams-hodges.net,10.43.83.217,Windows Server 2022,4,Marketing,2025-10-15
+laptop-66.hunter-robinson.com,172.27.190.60,Ubuntu 22.04,2,Marketing,2025-06-16
+desktop-56.wright.com,172.24.23.215,Windows Server 2022,16,Seguridad,2023-09-01
+laptop-24.norman.org,192.168.207.32,Ubuntu 22.04,64,Operaciones,2024-02-07
+email-96.campbell.com,172.24.219.175,Windows Server 2022,4,IT,2025-12-06
+laptop-07.brown-davis.org,10.198.230.96,CentOS 7,16,Operaciones,2024-03-11
+laptop-38.smith.com,172.23.94.229,Windows Server 2022,4,Marketing,2025-03-07
+laptop-03.everett.com,172.29.40.199,CentOS 7,16,Marketing,2025-06-09
+desktop-55.snyder-summers.com,192.168.129.239,Ubuntu 22.04,2,IT,2024-01-09
+web-35.tran.info,172.30.100.222,Debian 11,8,Marketing,2023-05-30
+email-07.williams.info,192.168.89.151,Windows Server 2019,32,Operaciones,2025-05-16
+laptop-22.smith.com,172.24.186.253,Ubuntu 22.04,16,Operaciones,2026-03-30
+srv-53.rodriguez-bentley.com,10.19.119.27,Ubuntu 22.04,4,Seguridad,2024-07-18
+laptop-34.guzman.com,172.18.29.211,Ubuntu 22.04,4,Finanzas,2025-11-03
+email-08.hughes.com,172.30.190.151,Windows Server 2019,64,Marketing,2023-12-26
+email-07.pittman-hurst.com,10.69.90.58,Ubuntu 22.04,32,RRHH,2025-06-03
+web-20.floyd.net,172.27.13.48,Ubuntu 22.04,64,Operaciones,2023-06-22
+srv-99.robinson-valenzuela.info,10.73.225.17,CentOS 7,16,RRHH,2024-06-26
+web-00.watson.info,192.168.225.147,Windows Server 2019,8,Marketing,2025-11-19
+email-40.bell.net,192.168.247.28,Ubuntu 22.04,16,Seguridad,2025-01-30
+desktop-96.rogers.com,192.168.128.38,Windows Server 2022,32,Marketing,2025-05-22
+desktop-69.torres.com,10.99.49.99,Ubuntu 22.04,2,Marketing,2024-08-03
+web-30.hansen.com,192.168.68.128,CentOS 7,8,RRHH,2023-09-09
+desktop-94.kelley.biz,10.247.17.130,Windows Server 2019,32,Operaciones,2024-12-15
+desktop-77.johnson.com,10.36.96.26,Windows Server 2019,8,Operaciones,2025-02-08
+srv-11.cruz.com,172.30.6.1,Debian 11,8,Operaciones,2026-05-22
+srv-12.hoffman.com,10.13.255.70,Ubuntu 22.04,16,Marketing,2024-06-22
+srv-25.walker-mckee.com,172.31.11.128,Debian 11,8,IT,2024-11-11
+srv-18.williams.net,192.168.103.58,Windows Server 2019,4,Marketing,2026-05-09
+laptop-13.hanson-williams.info,10.77.184.22,CentOS 7,64,IT,2023-11-26
+laptop-40.hays-carney.com,192.168.209.214,Windows Server 2022,64,Seguridad,2025-03-19
+srv-24.roberts-wu.com,10.29.176.204,CentOS 7,32,Seguridad,2024-06-06
+srv-80.olson.info,10.24.147.40,Debian 11,32,RRHH,2025-11-09
+db-51.patel-anderson.com,172.22.174.180,CentOS 7,8,RRHH,2024-07-05
+srv-68.mejia.com,10.165.169.153,Ubuntu 22.04,64,Operaciones,2025-07-03
+email-50.sanchez-cannon.com,10.92.36.3,CentOS 7,2,RRHH,2025-01-31
+laptop-98.nelson-fields.info,10.29.95.184,Windows Server 2022,64,Finanzas,2025-03-15
+srv-03.schmidt.com,172.22.191.212,Debian 11,8,RRHH,2023-08-31
+db-01.clark-brooks.com,192.168.45.162,Debian 11,32,RRHH,2024-04-18
+srv-02.sellers.biz,172.30.69.78,Windows Server 2022,4,RRHH,2026-01-21
+srv-79.butler.org,10.245.140.223,Windows Server 2019,16,Seguridad,2023-06-14
+laptop-38.beasley-cooke.com,10.145.77.8,Debian 11,16,Operaciones,2025-07-15
+web-42.thomas.com,10.16.197.246,Windows Server 2019,4,Seguridad,2025-01-04
+db-00.watson-rodriguez.com,172.22.81.171,Windows Server 2019,64,Marketing,2025-06-07
+email-22.baker.com,10.14.122.177,Ubuntu 22.04,16,Operaciones,2025-11-19
+desktop-37.jones-charles.com,192.168.83.240,Windows Server 2019,8,RRHH,2024-02-15
+email-51.young.info,10.143.145.197,Windows Server 2019,4,IT,2024-04-03
+web-18.ray.com,10.172.181.234,Windows Server 2019,32,Marketing,2024-09-14
+email-20.trevino.com,172.27.33.117,Ubuntu 22.04,4,Finanzas,2025-06-16
+desktop-50.hansen.com,172.27.165.176,Debian 11,4,Operaciones,2024-05-01
+web-34.ramirez-jones.com,192.168.160.182,CentOS 7,32,Marketing,2025-08-14
+email-98.baker.com,172.24.227.27,Ubuntu 22.04,2,Finanzas,2026-01-03
+email-21.white.info,10.223.237.11,Debian 11,2,RRHH,2025-05-24
+web-98.scott-brady.com,172.31.181.44,Windows Server 2019,32,Operaciones,2025-11-12
+desktop-45.wong.com,172.22.170.169,Ubuntu 22.04,2,Marketing,2024-02-09
+email-29.burton-johnson.com,172.16.142.66,Debian 11,16,Finanzas,2025-11-08
+desktop-29.delacruz-chapman.biz,10.139.15.30,CentOS 7,16,Finanzas,2024-04-22
+web-51.martin-martin.com,192.168.224.61,CentOS 7,4,Marketing,2024-08-20
+email-20.johnson-cowan.net,10.228.175.235,Windows Server 2019,64,RRHH,2025-01-30
+srv-34.lane-newman.org,10.77.135.238,Ubuntu 22.04,32,Finanzas,2024-11-11
+lt-52.becker.biz,10.224.41.93,Windows Server 2022,8,Marketing,2026-02-22
+laptop-15.johnson-romero.com,172.19.152.24,Ubuntu 22.04,64,Operaciones,2025-04-29
+lt-04.hernandez-blackwell.com,192.168.213.190,Debian 11,2,RRHH,2023-12-17
+email-41.rowland-sanford.net,172.26.184.105,Windows Server 2022,8,Seguridad,2025-01-04
+email-33.davis-olson.com,192.168.134.63,Windows Server 2022,4,Finanzas,2025-01-18
+desktop-22.johnson.com,192.168.78.78,Debian 11,64,Operaciones,2025-12-17
+db-60.velez.net,172.22.1.141,Debian 11,8,Operaciones,2024-06-10
+web-00.ortega.com,192.168.177.153,CentOS 7,32,IT,2023-12-20
+lt-76.taylor.com,192.168.39.102,CentOS 7,32,Seguridad,2024-03-07
+web-93.ramos.biz,192.168.225.102,Debian 11,16,IT,2024-02-23
+web-12.brown.biz,172.25.104.23,Windows Server 2019,64,Seguridad,2024-12-31
+desktop-68.fowler.com,172.27.24.34,CentOS 7,64,Operaciones,2023-06-13
+lt-31.johnston.biz,172.28.30.180,Windows Server 2019,64,Finanzas,2023-07-08
+db-05.lowe.com,172.28.33.30,Debian 11,4,Marketing,2023-07-19
+db-49.smith.com,192.168.80.129,Debian 11,32,Seguridad,2024-07-29
+email-39.welch-crane.com,10.99.137.72,Windows Server 2022,32,IT,2025-07-01
+srv-75.kirk.net,10.151.4.92,CentOS 7,2,Marketing,2024-10-20
+email-40.hart-porter.com,192.168.89.176,Windows Server 2022,8,RRHH,2025-09-24
+lt-63.nelson.com,172.31.196.211,Windows Server 2019,2,IT,2025-09-08
+srv-98.santos.org,10.172.184.89,Windows Server 2019,64,Finanzas,2025-09-30
+lt-41.becker.com,10.30.58.136,Debian 11,2,RRHH,2024-02-21
+srv-49.pierce-smith.info,172.29.166.56,CentOS 7,4,Marketing,2025-05-06
+laptop-82.gray.com,172.21.102.75,Windows Server 2019,4,RRHH,2025-08-13
+laptop-56.allen.com,192.168.69.176,Windows Server 2022,4,Seguridad,2024-12-18
+lt-74.hurley-cohen.org,172.29.104.138,Debian 11,4,IT,2026-02-21
+db-71.pineda.com,10.218.208.235,CentOS 7,2,Marketing,2023-10-23
+db-39.collins.info,172.17.10.91,Ubuntu 22.04,32,Marketing,2023-08-09
+lt-14.stewart.com,10.55.148.116,Debian 11,8,Marketing,2024-06-10
+srv-12.morrison-gonzales.com,192.168.76.232,Ubuntu 22.04,64,Operaciones,2025-01-13
+desktop-72.ruiz.com,192.168.80.82,Debian 11,2,Finanzas,2026-02-09
+laptop-56.roth-taylor.info,10.228.203.233,Debian 11,32,Finanzas,2024-09-05
+db-03.wilson.com,10.23.26.92,CentOS 7,64,Marketing,2024-12-31
+srv-08.arellano.com,10.176.166.35,Ubuntu 22.04,16,IT,2026-05-13
+laptop-24.mclean.net,192.168.112.0,Windows Server 2019,8,Marketing,2024-05-14
+laptop-58.brown-rice.com,172.18.207.231,Debian 11,8,IT,2024-06-22
+db-43.ritter.com,192.168.230.147,Ubuntu 22.04,4,RRHH,2025-09-03
+srv-52.mendez.com,10.34.189.195,Windows Server 2022,2,Finanzas,2024-02-08
+email-89.gomez-haynes.com,10.113.214.115,Windows Server 2019,8,Finanzas,2025-01-03
+email-64.coleman.com,172.22.101.63,Windows Server 2019,16,Seguridad,2025-05-08
+web-79.austin.org,10.248.171.91,Ubuntu 22.04,32,Marketing,2026-04-08
+lt-68.peterson-deleon.biz,172.24.218.104,Windows Server 2022,8,Finanzas,2024-11-09
+lt-80.holmes.info,192.168.123.237,Ubuntu 22.04,32,Marketing,2024-05-15
+srv-18.johnson.com,192.168.113.39,Ubuntu 22.04,4,Finanzas,2023-12-16
+email-48.farrell-ward.com,172.23.44.189,CentOS 7,4,RRHH,2026-02-20
+lt-50.wilson.org,10.131.200.185,Ubuntu 22.04,2,IT,2024-06-16
+web-51.richardson.com,172.23.39.32,Ubuntu 22.04,16,RRHH,2024-11-24
+desktop-13.miller.info,192.168.119.181,Debian 11,64,Finanzas,2025-11-05
+email-88.fernandez-cardenas.info,10.182.147.205,Debian 11,2,Marketing,2024-07-28
+srv-56.aguilar.net,192.168.76.96,Windows Server 2022,32,IT,2024-05-26
+lt-52.austin.com,10.87.34.92,Debian 11,4,Finanzas,2024-01-13
+web-44.johnson.net,192.168.10.220,Windows Server 2022,64,RRHH,2024-07-09
+email-67.bryant-wilson.com,192.168.116.170,Windows Server 2019,8,RRHH,2024-02-13
+web-62.pratt.com,172.23.164.192,Debian 11,2,RRHH,2024-02-13
+srv-90.palmer-serrano.com,172.24.48.78,Windows Server 2022,64,Finanzas,2024-05-17
+web-11.vargas-bell.org,10.53.65.35,Debian 11,16,IT,2025-07-22
+db-95.williams.net,172.24.36.84,Windows Server 2022,8,Finanzas,2025-01-22
+web-88.bell-hart.info,10.193.38.198,Ubuntu 22.04,8,Finanzas,2026-02-11
+laptop-38.jennings-arnold.com,172.20.50.139,Windows Server 2022,32,RRHH,2024-10-20
+desktop-66.ramirez-allen.org,192.168.167.241,Ubuntu 22.04,4,Finanzas,2024-10-14
+email-42.crosby-miller.net,172.25.96.51,Ubuntu 22.04,32,Seguridad,2026-01-11
+desktop-53.coleman.com,172.22.136.226,Debian 11,64,Finanzas,2024-02-05
+web-19.hernandez-dixon.com,172.18.153.236,CentOS 7,8,Operaciones,2023-11-24
+email-75.wilson.com,10.197.161.89,Ubuntu 22.04,8,Marketing,2023-09-10
+lt-37.price.com,10.141.121.103,Windows Server 2022,8,IT,2023-08-16
+desktop-08.gonzalez.com,10.64.5.45,Debian 11,16,IT,2025-05-16
+srv-93.ryan-navarro.biz,192.168.165.43,Ubuntu 22.04,8,IT,2026-03-12
+srv-21.alexander.com,172.26.226.130,Windows Server 2022,16,Operaciones,2024-07-07
+lt-85.thompson.com,10.217.114.116,Windows Server 2019,32,Operaciones,2026-03-19
+srv-12.fox-ellis.com,10.84.160.138,Windows Server 2022,32,Seguridad,2025-12-23
+lt-97.mcclain.com,172.23.196.188,Ubuntu 22.04,2,IT,2025-06-15
+web-84.boyer-cruz.com,172.30.35.134,Windows Server 2019,2,Marketing,2024-06-02
+laptop-33.white.net,10.198.149.177,Windows Server 2019,4,IT,2025-12-21
+web-42.harmon.biz,192.168.49.131,Debian 11,8,Seguridad,2025-04-27
+desktop-66.bartlett.org,192.168.255.66,CentOS 7,4,Seguridad,2023-08-23
+lt-95.medina.com,172.27.54.122,Ubuntu 22.04,4,Finanzas,2024-04-22
+laptop-46.hill-escobar.com,10.138.103.11,Windows Server 2022,32,IT,2023-07-22
+email-04.hernandez.org,10.114.17.37,Debian 11,16,Marketing,2023-08-13
+laptop-05.reed-garcia.com,192.168.162.92,CentOS 7,4,Finanzas,2024-12-22
+lt-54.scott.com,10.116.113.185,Windows Server 2022,64,Operaciones,2024-03-19
+web-49.thompson.net,10.179.77.159,Ubuntu 22.04,2,Operaciones,2023-11-16
+db-35.green.com,10.89.145.207,Ubuntu 22.04,2,Operaciones,2025-10-31
+email-10.flores.info,192.168.199.246,Windows Server 2019,16,Marketing,2024-05-31
+laptop-30.brooks-jenkins.org,192.168.149.200,Windows Server 2019,8,Finanzas,2026-05-24
+srv-82.nixon.info,10.9.170.234,Debian 11,4,RRHH,2024-07-30
+email-12.king.org,172.28.91.108,Debian 11,64,IT,2023-10-29
+db-72.jones.com,192.168.37.218,Windows Server 2019,16,RRHH,2023-06-16
+desktop-84.miller-lawson.com,10.21.188.49,Windows Server 2022,2,Operaciones,2025-04-15
+db-40.lewis-wright.biz,192.168.115.239,Debian 11,2,RRHH,2025-12-09
+web-02.calderon.com,172.23.165.2,Debian 11,64,Finanzas,2025-06-13
+web-22.white-wade.biz,10.33.74.154,Windows Server 2022,16,Seguridad,2026-02-12
+srv-59.williams-hardy.com,172.22.17.241,Ubuntu 22.04,64,IT,2023-12-15
+email-27.williams-mullen.info,10.162.96.220,Debian 11,8,Operaciones,2025-05-19
+email-83.ingram-fisher.com,172.20.23.246,Windows Server 2022,2,Seguridad,2024-06-18
+lt-73.fletcher.org,10.3.208.41,Windows Server 2022,64,Marketing,2024-04-19
+laptop-49.martinez.com,10.16.249.214,Windows Server 2022,8,Finanzas,2026-03-15
+desktop-01.thomas.com,172.28.83.188,Windows Server 2022,64,RRHH,2025-03-23
+desktop-10.walters.com,192.168.42.160,Windows Server 2022,8,Seguridad,2025-12-15
+email-48.fox-williams.com,172.19.110.93,Debian 11,64,RRHH,2024-09-06
+email-79.kerr-wilson.com,10.4.144.54,Ubuntu 22.04,32,Seguridad,2024-12-27
+laptop-89.james.org,192.168.13.3,Windows Server 2019,16,Seguridad,2025-01-22
+lt-94.moore-spence.com,10.244.235.149,Windows Server 2019,4,Seguridad,2024-06-11
+email-35.chavez.com,10.142.22.6,Windows Server 2019,8,Finanzas,2025-03-10
+laptop-50.golden.com,192.168.162.122,Debian 11,2,RRHH,2023-12-17
+web-85.barr.com,192.168.72.158,Debian 11,32,RRHH,2025-09-12
+lt-96.newton.net,10.224.205.207,Windows Server 2019,64,Seguridad,2023-10-28
+laptop-05.cox.biz,10.179.186.251,Ubuntu 22.04,64,Finanzas,2025-10-24
+desktop-51.greer.biz,192.168.36.120,CentOS 7,16,Marketing,2023-12-06
+laptop-55.chandler-thompson.biz,172.21.121.28,Windows Server 2019,2,Seguridad,2025-01-21
+web-18.sanders.com,192.168.27.52,Ubuntu 22.04,32,Marketing,2023-07-02
+desktop-85.burgess-miller.net,172.19.3.3,CentOS 7,16,IT,2025-09-25
+srv-01.bates-gallegos.com,172.23.249.97,Debian 11,8,Finanzas,2025-12-13
+srv-33.horn-nielsen.org,172.29.16.14,Windows Server 2022,32,IT,2024-06-11
+db-84.mclaughlin.info,192.168.30.153,Ubuntu 22.04,16,RRHH,2023-07-10
+lt-06.hardin-gomez.com,172.24.14.14,Ubuntu 22.04,64,Marketing,2025-08-14
+web-61.mccoy.com,192.168.153.157,Windows Server 2019,64,IT,2025-07-06
+lt-13.ortiz.com,192.168.30.24,Debian 11,2,Finanzas,2023-08-05
+srv-70.ross-wood.org,192.168.36.173,CentOS 7,32,Seguridad,2023-12-19
+desktop-93.horton.com,172.18.136.8,Ubuntu 22.04,8,Operaciones,2023-08-11
+lt-04.smith.info,192.168.112.238,CentOS 7,2,RRHH,2025-05-15
+laptop-33.campos.info,172.23.42.23,Windows Server 2019,32,Operaciones,2026-03-27
+lt-66.rodriguez.org,10.146.237.106,Windows Server 2022,2,Finanzas,2024-03-19
+email-07.nguyen.biz,192.168.155.177,Ubuntu 22.04,16,Marketing,2023-08-17
+web-26.hernandez.info,172.22.63.82,Ubuntu 22.04,64,Finanzas,2026-03-24
+laptop-73.orozco-strickland.com,192.168.71.81,Windows Server 2019,16,Finanzas,2023-06-30
+laptop-56.barron.net,192.168.37.197,Ubuntu 22.04,2,Marketing,2023-07-29
+web-79.hernandez.com,10.164.251.253,CentOS 7,4,IT,2024-06-27
+lt-78.lambert-walker.com,172.25.51.201,Debian 11,2,Seguridad,2026-01-28
+email-14.foster-wagner.org,172.23.53.132,Ubuntu 22.04,4,RRHH,2024-03-31
+desktop-21.wright.com,172.31.3.234,CentOS 7,32,RRHH,2025-02-11
+laptop-45.brewer.biz,172.19.227.64,Ubuntu 22.04,4,Marketing,2023-12-01
+srv-06.brown.com,10.22.5.235,Windows Server 2022,16,Operaciones,2024-11-20
+laptop-77.clay.com,172.31.141.190,CentOS 7,16,Marketing,2026-02-19
+email-79.clark-parker.com,10.20.110.42,Windows Server 2019,64,Marketing,2024-10-14
+laptop-17.reid-bryant.net,10.8.115.227,Ubuntu 22.04,16,IT,2025-10-10
+web-05.andersen-austin.biz,172.23.71.165,Windows Server 2019,32,Seguridad,2026-02-04
+lt-42.guerra-smith.net,10.222.118.90,Windows Server 2019,64,Marketing,2023-10-23
+lt-98.crawford-lewis.com,172.28.14.143,Windows Server 2019,64,Finanzas,2024-11-02
+srv-91.king-norton.com,192.168.155.217,Windows Server 2022,2,Operaciones,2025-11-28
+srv-87.henry.com,192.168.50.64,Debian 11,16,IT,2025-06-28
+lt-97.johnson-torres.biz,10.178.249.72,CentOS 7,64,Finanzas,2023-10-24
+laptop-21.turner.com,10.103.119.187,Debian 11,16,Operaciones,2025-01-16
+desktop-74.rivera.net,172.29.53.24,Debian 11,32,Operaciones,2025-02-25
+web-82.williams.com,172.24.134.97,CentOS 7,16,RRHH,2025-07-31
+desktop-76.jackson-blevins.com,172.16.6.253,Windows Server 2022,64,RRHH,2024-01-25
+desktop-99.nelson-miller.com,10.135.126.177,Debian 11,16,Finanzas,2024-10-03
+db-60.porter.info,10.164.230.30,Windows Server 2022,16,IT,2024-02-19
+desktop-52.nunez.com,10.213.37.95,Windows Server 2022,4,RRHH,2025-03-26
+web-45.singleton-oneal.com,10.164.247.116,Ubuntu 22.04,64,Seguridad,2025-05-15
+srv-38.jones.info,10.139.138.147,CentOS 7,16,Operaciones,2025-08-17
+db-81.marshall.info,172.18.222.74,Debian 11,4,Operaciones,2025-11-11
+srv-22.osborne.info,10.28.63.218,CentOS 7,4,Finanzas,2023-12-22
+email-05.farrell-foster.com,192.168.194.227,Debian 11,32,RRHH,2023-10-23
+db-04.wu-christensen.com,192.168.89.165,CentOS 7,16,Seguridad,2025-10-30
+db-50.jensen.com,172.24.164.180,Ubuntu 22.04,2,RRHH,2025-04-24
+lt-33.green.com,172.21.25.35,Windows Server 2019,2,Seguridad,2025-10-18
+srv-87.jackson.com,10.192.142.16,Windows Server 2022,8,RRHH,2024-08-22
+lt-49.chen.com,10.213.238.213,Windows Server 2022,8,Seguridad,2024-02-20
+web-18.white.com,172.19.50.135,Windows Server 2022,8,IT,2026-01-22
+desktop-41.bullock-white.info,172.25.128.87,Debian 11,32,IT,2024-04-18
+srv-57.cook.com,10.48.60.225,Debian 11,32,Marketing,2023-07-22
+web-26.everett.org,172.21.255.28,Debian 11,32,IT,2024-01-15
+desktop-38.pruitt.com,172.22.197.189,Windows Server 2019,32,Finanzas,2023-07-20
+desktop-74.curry.biz,172.31.54.146,Windows Server 2019,8,IT,2025-03-09
+desktop-08.park-craig.com,172.21.82.216,Ubuntu 22.04,64,Operaciones,2025-02-24
+laptop-35.brown.com,192.168.32.125,CentOS 7,2,Finanzas,2025-12-14
+desktop-73.tucker-ferguson.info,172.18.162.110,Windows Server 2022,32,Finanzas,2026-02-04
+lt-50.anderson.com,192.168.251.113,Ubuntu 22.04,64,Seguridad,2025-08-11
+laptop-07.sawyer-tucker.com,172.28.164.100,Debian 11,2,Marketing,2026-01-09
+web-29.suarez.com,192.168.50.13,Windows Server 2022,16,Finanzas,2026-03-04
+laptop-29.brown.org,172.24.254.121,Windows Server 2022,2,Marketing,2025-06-19
+srv-85.harris.com,10.202.214.64,Debian 11,4,Seguridad,2025-01-03
+lt-28.gonzalez-brown.com,10.243.163.63,Windows Server 2022,16,Marketing,2025-12-11
+lt-00.sherman.org,192.168.203.218,Debian 11,4,Marketing,2024-02-12
+desktop-37.hall-acosta.com,172.21.250.181,Ubuntu 22.04,16,RRHH,2025-03-19
+srv-02.ashley-taylor.org,192.168.199.168,Windows Server 2022,8,IT,2024-01-04
+db-00.hernandez.com,172.30.40.83,Ubuntu 22.04,8,Marketing,2024-03-20
+web-94.simpson.com,172.19.229.107,CentOS 7,8,IT,2025-03-08
+db-64.kidd.com,172.18.30.17,Debian 11,8,Marketing,2025-07-22
+desktop-58.griffin.com,172.27.213.170,Debian 11,4,IT,2024-01-03
+lt-25.wise.com,10.179.107.34,Windows Server 2022,4,Operaciones,2024-08-26
+web-80.jordan.com,172.21.46.0,Windows Server 2022,64,Finanzas,2023-10-02
+lt-41.fisher.com,172.18.117.240,CentOS 7,64,Finanzas,2025-05-16
+desktop-98.sweeney.org,10.141.239.108,Ubuntu 22.04,4,Finanzas,2023-11-08
+lt-04.simmons.com,192.168.105.168,Windows Server 2019,4,Seguridad,2023-09-02
+laptop-19.stephens.info,192.168.24.202,Windows Server 2019,8,Operaciones,2026-03-31
+web-00.smith.com,172.20.165.52,Windows Server 2019,16,Marketing,2024-02-25
+email-05.mcdonald.info,192.168.130.48,Debian 11,2,Finanzas,2025-07-22
+web-46.fletcher-calderon.com,172.31.138.102,Ubuntu 22.04,16,RRHH,2025-06-28
+web-35.curry.com,192.168.94.215,Ubuntu 22.04,8,Marketing,2025-08-03
+laptop-33.perez-holt.com,172.25.98.252,Windows Server 2019,8,Operaciones,2023-07-01
+email-17.king.biz,192.168.164.114,Ubuntu 22.04,64,Seguridad,2026-01-17
+db-89.calhoun.info,10.118.120.217,Ubuntu 22.04,64,Operaciones,2023-06-25
+email-13.porter-adams.info,192.168.155.198,Windows Server 2022,64,Operaciones,2025-11-30
+srv-72.gilbert.com,192.168.151.227,Windows Server 2022,8,Seguridad,2024-10-23
+email-58.smith.info,172.26.143.246,Windows Server 2019,32,IT,2024-09-11
+laptop-94.white.com,10.96.255.176,CentOS 7,16,Finanzas,2025-09-25
+laptop-31.schroeder.org,192.168.12.148,CentOS 7,8,Marketing,2024-08-05
+desktop-15.hall-gordon.com,192.168.252.16,Windows Server 2019,8,Seguridad,2025-05-18
+laptop-04.moore.com,10.166.151.133,Debian 11,8,Operaciones,2025-06-24
+web-40.king-wilson.info,10.179.51.90,CentOS 7,32,Seguridad,2026-04-20
+desktop-74.nash.com,10.123.84.100,Windows Server 2022,16,IT,2026-04-12
+lt-21.bell.biz,172.23.68.149,CentOS 7,4,RRHH,2023-12-28
+srv-52.davis-santos.com,192.168.107.74,Windows Server 2019,64,IT,2025-11-21
+email-21.peters.org,192.168.63.4,Ubuntu 22.04,16,RRHH,2024-05-26
+lt-82.boyd-kirby.com,10.147.38.140,Windows Server 2019,2,Marketing,2025-08-13
+db-24.reid.org,10.52.155.150,Windows Server 2019,8,Finanzas,2024-04-08
+db-74.dorsey-myers.biz,10.113.205.190,Windows Server 2019,32,Operaciones,2025-07-06
+lt-83.white.com,172.24.15.186,CentOS 7,2,Operaciones,2025-12-12
+desktop-72.clark-stewart.org,172.26.173.111,CentOS 7,16,Marketing,2025-08-23
+lt-40.khan-walker.com,192.168.57.112,Windows Server 2022,32,Operaciones,2024-07-31
+lt-60.wright.com,172.31.111.20,Windows Server 2022,2,Marketing,2026-01-01
+srv-03.curtis.com,172.29.246.169,Ubuntu 22.04,64,RRHH,2025-04-18
+srv-12.petersen.com,172.29.176.152,CentOS 7,8,IT,2025-10-24
+db-21.adams.com,192.168.185.172,CentOS 7,8,Seguridad,2024-07-29
+email-78.taylor.com,192.168.192.167,Debian 11,2,IT,2023-05-29
+email-73.rogers.com,10.220.24.13,Windows Server 2019,4,Seguridad,2025-04-13
+db-16.rose-hunt.com,172.17.152.198,Debian 11,32,Operaciones,2025-08-04
+srv-64.gilmore.com,10.21.168.7,Ubuntu 22.04,2,Marketing,2026-03-08
+laptop-79.henry-robertson.net,10.102.80.49,Debian 11,8,IT,2025-05-02
+srv-98.baker-powers.com,172.19.209.122,Debian 11,64,RRHH,2024-05-21
+laptop-40.duncan.com,172.28.254.15,Ubuntu 22.04,4,Seguridad,2023-08-19
+laptop-90.sharp.biz,10.160.103.131,CentOS 7,2,Marketing,2025-09-07
+laptop-99.hull.com,10.37.193.84,Windows Server 2019,4,Marketing,2023-07-14
+laptop-81.hernandez-gonzalez.org,10.24.253.123,Debian 11,2,Marketing,2025-08-15
+web-49.vazquez.info,192.168.174.183,Windows Server 2022,2,Finanzas,2023-08-12
+srv-12.arnold.com,192.168.0.108,Ubuntu 22.04,2,RRHH,2025-05-17
+laptop-21.chandler.biz,172.20.227.76,CentOS 7,2,RRHH,2024-07-17
+email-94.schwartz.biz,172.31.146.162,Windows Server 2019,32,Seguridad,2024-04-06
+email-69.lee.biz,10.14.170.212,Debian 11,8,Operaciones,2025-10-26
+lt-78.bryant-hughes.com,172.16.203.46,Debian 11,4,Finanzas,2025-08-01
+email-62.santos.info,10.81.229.196,Ubuntu 22.04,8,IT,2024-04-21
+email-13.smith-lopez.com,172.28.65.119,CentOS 7,16,Marketing,2024-05-14
+email-13.long-price.biz,192.168.164.27,CentOS 7,32,RRHH,2024-11-24
+laptop-40.matthews.org,192.168.228.187,Ubuntu 22.04,4,Marketing,2024-05-25
+db-74.martin.com,192.168.63.235,Windows Server 2019,8,RRHH,2025-09-20
+lt-22.rivas-riddle.biz,10.188.215.124,Windows Server 2019,32,Finanzas,2023-08-09
+web-71.mann.info,10.45.35.233,CentOS 7,2,Seguridad,2024-11-22
+desktop-73.wade.biz,192.168.215.226,Debian 11,16,Marketing,2023-08-07
+web-47.fox.info,192.168.34.10,Windows Server 2022,16,Finanzas,2025-08-14
+srv-26.simmons.com,192.168.48.72,Windows Server 2022,64,Finanzas,2023-05-30
+db-82.perez.biz,10.55.129.225,CentOS 7,32,Seguridad,2025-07-23
+web-99.small-garcia.com,192.168.124.113,Ubuntu 22.04,8,Marketing,2025-12-29
+srv-55.edwards.com,172.26.158.129,Ubuntu 22.04,16,Seguridad,2023-11-25
+db-84.spencer.com,10.213.130.83,Ubuntu 22.04,16,Seguridad,2023-07-11
+laptop-05.vasquez.org,172.16.189.22,CentOS 7,8,Finanzas,2026-03-26
+db-83.jimenez.info,10.208.36.5,Ubuntu 22.04,32,Seguridad,2025-03-10
+email-49.copeland.com,192.168.251.235,Debian 11,2,RRHH,2025-12-13
+srv-92.miller.biz,172.20.89.147,Windows Server 2019,8,IT,2025-04-03
+db-34.mason.com,10.29.194.27,Windows Server 2022,32,Finanzas,2024-03-11
+desktop-42.brown-gutierrez.com,172.21.43.29,Ubuntu 22.04,4,IT,2024-01-12
+email-94.medina.com,10.45.2.139,Ubuntu 22.04,8,Operaciones,2025-10-27
+laptop-88.patton-medina.net,10.177.11.212,CentOS 7,2,RRHH,2024-03-25
+lt-58.wise.com,10.35.59.28,Windows Server 2019,8,Seguridad,2024-11-19
+email-06.moody.biz,192.168.99.186,Windows Server 2022,8,Seguridad,2026-02-12
+srv-67.baker.com,192.168.134.243,Debian 11,32,Marketing,2025-12-18
+lt-04.schaefer.com,10.149.23.116,CentOS 7,4,Marketing,2025-03-20
+laptop-96.contreras.biz,10.82.210.27,Debian 11,16,Operaciones,2026-01-22
+srv-91.richards-hall.net,10.194.227.85,Windows Server 2019,4,IT,2025-03-31
+lt-68.miller-moses.com,192.168.240.243,Windows Server 2022,64,Seguridad,2025-08-01
+db-30.hernandez.info,172.25.70.232,Ubuntu 22.04,4,Seguridad,2025-12-27
+lt-23.barr.com,172.22.74.123,Windows Server 2019,4,IT,2023-10-30
+desktop-50.gomez.info,172.28.177.13,Debian 11,4,Seguridad,2024-02-25
+web-90.thompson.com,172.20.89.241,Debian 11,16,Marketing,2025-12-09
+desktop-18.ray.com,172.17.149.234,Windows Server 2022,4,Operaciones,2023-08-22
+db-71.brown-cooper.com,192.168.216.250,CentOS 7,8,IT,2026-04-12
+db-91.sullivan.com,192.168.232.5,Windows Server 2019,16,IT,2023-06-30
+laptop-14.peterson.com,10.133.228.91,Ubuntu 22.04,4,Seguridad,2025-11-26
+db-26.perez.org,172.19.104.14,Ubuntu 22.04,4,IT,2026-03-05
+srv-33.mejia.com,10.52.245.2,CentOS 7,2,IT,2023-12-16
+lt-77.trujillo-hood.com,172.25.56.92,Debian 11,2,Seguridad,2025-02-05
+web-44.james-warner.org,172.17.217.79,CentOS 7,32,IT,2023-10-06
+db-26.brown.com,172.19.241.46,CentOS 7,4,Operaciones,2026-04-28
+db-76.wright-morton.com,192.168.250.148,Ubuntu 22.04,16,Marketing,2025-03-18
+laptop-61.conner-chen.com,10.90.93.194,Debian 11,4,RRHH,2024-06-22
+laptop-87.thomas-taylor.com,10.167.193.173,Windows Server 2022,32,Marketing,2023-12-26
+lt-54.johnson.org,172.30.43.135,Debian 11,64,RRHH,2025-04-06
+desktop-93.flores-palmer.com,10.241.28.57,Windows Server 2019,2,Finanzas,2026-03-06
+lt-05.ramirez-bautista.net,192.168.13.69,Ubuntu 22.04,32,Finanzas,2025-09-18
+srv-65.wilson-greene.com,10.143.231.201,CentOS 7,4,IT,2026-04-06
+lt-30.ford.com,172.31.58.61,CentOS 7,2,Operaciones,2025-08-22
+web-79.young-white.biz,172.23.114.11,CentOS 7,64,Seguridad,2025-12-03
+web-06.page.com,10.51.70.200,Ubuntu 22.04,64,IT,2024-10-09
+web-54.dyer-scott.info,10.211.205.180,Ubuntu 22.04,16,RRHH,2025-09-14
+desktop-24.jones-foster.com,192.168.49.205,Debian 11,16,Seguridad,2025-05-09
+laptop-50.mccormick-hancock.net,10.117.231.95,CentOS 7,16,RRHH,2025-04-15
+laptop-44.mccall.com,192.168.235.192,Debian 11,32,IT,2023-08-11
+web-95.chapman.com,172.16.250.129,Debian 11,4,Seguridad,2025-10-13
+desktop-92.ward.biz,10.30.173.195,Windows Server 2022,4,Operaciones,2025-10-10
+web-37.reynolds.com,172.18.153.194,Windows Server 2022,8,IT,2026-04-04
+desktop-04.moreno.info,10.88.157.163,Ubuntu 22.04,8,RRHH,2025-02-09
+db-03.gray-hernandez.com,172.16.178.49,Debian 11,2,Operaciones,2026-04-07
+srv-27.gonzalez.com,172.22.237.196,Windows Server 2022,64,IT,2025-04-23
+desktop-74.powell.org,172.23.0.145,Debian 11,16,Operaciones,2024-11-13
+laptop-43.garner-sullivan.com,172.22.26.35,Windows Server 2019,2,Finanzas,2023-08-23
+laptop-94.thompson.info,10.51.210.238,Windows Server 2019,4,Operaciones,2026-02-16
+desktop-02.bowman.com,10.6.190.74,Debian 11,2,Operaciones,2026-01-25
+desktop-41.nelson-morales.com,10.139.11.114,CentOS 7,16,Seguridad,2023-11-16
+srv-84.clark.com,192.168.112.46,Debian 11,32,Seguridad,2023-06-13
+srv-31.pearson.biz,10.52.190.63,Debian 11,4,RRHH,2025-01-30
+email-28.oconnor-meza.com,192.168.191.248,Debian 11,16,IT,2023-10-16
+email-24.reese-cruz.com,172.21.85.95,CentOS 7,64,Marketing,2025-03-28
+db-45.mills.biz,192.168.76.164,Windows Server 2019,8,Seguridad,2024-01-22
+laptop-64.wagner.com,192.168.64.139,Debian 11,4,IT,2025-05-04
+laptop-42.gonzales-larsen.com,10.169.99.221,Ubuntu 22.04,32,RRHH,2024-07-04
+desktop-88.cline.net,172.25.71.119,Windows Server 2019,32,Operaciones,2025-10-11
+desktop-64.velasquez-williams.com,192.168.215.242,Debian 11,32,Seguridad,2025-05-11
+laptop-44.chase.info,10.181.157.240,Windows Server 2019,16,IT,2024-06-08
+laptop-27.berry.com,192.168.216.76,Ubuntu 22.04,64,Marketing,2024-10-05
+email-33.jones.com,192.168.29.171,Windows Server 2022,64,IT,2025-01-04
+web-70.goodwin-james.net,10.8.182.12,Debian 11,16,RRHH,2024-01-04
+lt-05.johnson.com,10.243.62.117,Windows Server 2022,32,IT,2023-11-17
+web-57.johnson.biz,10.181.163.204,CentOS 7,64,IT,2024-08-21
+db-08.simon.com,192.168.192.242,Windows Server 2019,8,Marketing,2025-08-29
+email-85.ruiz.com,192.168.72.84,Debian 11,2,Operaciones,2025-04-10
+srv-83.mahoney.com,192.168.14.139,Debian 11,4,Operaciones,2025-04-18
+db-87.collier.com,172.17.15.213,Ubuntu 22.04,4,RRHH,2024-05-03
+email-10.walsh.info,172.24.166.220,CentOS 7,64,Finanzas,2026-04-28
+lt-92.obrien.info,192.168.120.230,Windows Server 2022,32,Finanzas,2026-01-18
+laptop-97.gordon.com,172.18.96.149,Windows Server 2019,4,Finanzas,2025-11-28
+web-42.acosta.net,10.181.172.151,Debian 11,16,Operaciones,2024-11-18
+srv-88.baird.biz,192.168.38.154,Windows Server 2019,2,RRHH,2023-06-22
+lt-67.watson-smith.com,172.25.136.210,Ubuntu 22.04,4,Operaciones,2024-01-18
+db-98.myers-powell.org,172.21.192.173,CentOS 7,2,Marketing,2025-05-01
+laptop-10.meyer-valdez.com,10.49.9.178,Debian 11,32,Seguridad,2024-02-13
+email-79.moss.com,10.102.96.89,Windows Server 2019,32,Seguridad,2026-04-02
+srv-66.weaver.com,192.168.184.153,Windows Server 2022,2,Finanzas,2023-06-18
+laptop-29.bowman.com,10.71.137.60,Ubuntu 22.04,32,Operaciones,2024-01-14
+db-04.serrano-garcia.biz,10.96.107.85,Debian 11,64,Operaciones,2023-08-10
+lt-08.johns.com,192.168.223.157,Debian 11,64,Marketing,2026-04-26
+desktop-72.henry.com,10.238.9.192,Debian 11,16,Seguridad,2023-12-30
+lt-72.bryant-phillips.com,10.201.115.222,Windows Server 2022,4,IT,2024-07-01
+lt-76.preston.com,192.168.93.219,Windows Server 2022,16,Marketing,2024-04-14
+laptop-41.barnes.info,10.177.148.152,Ubuntu 22.04,2,Finanzas,2023-09-06
+db-78.gregory.com,10.104.97.97,Ubuntu 22.04,2,Marketing,2023-09-28
+lt-81.edwards.com,10.57.224.22,Windows Server 2019,2,Seguridad,2026-05-11
+lt-05.hernandez.info,192.168.230.41,CentOS 7,64,IT,2026-05-18
+db-74.peck-lee.com,172.16.253.135,Ubuntu 22.04,8,Operaciones,2026-04-29
+lt-04.jacobs-willis.com,10.92.153.159,Ubuntu 22.04,16,Operaciones,2024-04-14
+desktop-43.martin-kline.com,10.164.156.57,Ubuntu 22.04,64,RRHH,2025-02-20
+laptop-78.baker-cohen.com,10.182.49.10,Debian 11,64,Operaciones,2026-03-13
+web-81.anderson.org,192.168.200.108,Windows Server 2022,64,Marketing,2025-09-27
+desktop-20.rich.com,192.168.243.228,Debian 11,64,Finanzas,2026-04-08
+srv-36.david-smith.com,172.24.37.0,Windows Server 2022,4,Finanzas,2023-09-05
+email-66.mccormick.com,172.24.97.215,Windows Server 2022,2,Finanzas,2025-03-07
+desktop-23.lewis-walker.com,10.251.192.177,Ubuntu 22.04,2,RRHH,2026-04-21
+web-46.gallagher-jackson.org,172.29.184.89,Windows Server 2022,32,RRHH,2025-12-08
+lt-39.barnes.com,172.25.75.155,Windows Server 2019,2,Marketing,2025-08-12
+lt-66.anderson.com,10.211.121.198,Windows Server 2022,32,IT,2024-06-09
